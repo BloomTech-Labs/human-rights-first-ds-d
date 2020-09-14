@@ -1,7 +1,6 @@
 from fastapi import APIRouter, HTTPException
 import pandas as pd
-
-import psycopg2
+from .update import backlog_path
 
 router = APIRouter()
 
@@ -11,5 +10,15 @@ async def getdata():
     '''
     Get data from backlog database.
     '''
-
-    return {'return': 'not implemented yet!'}
+    try:
+        with open(backlog_path) as f:
+            pass  # file can be opened successfully
+        # load backlog and return it
+        backlog = pd.read_csv(backlog_path)
+        return backlog.to_json(orient='records')
+    except IOError:
+        # file cannot be opened successfully and needs to be created
+        return HTTPException(
+            404,
+            'Backlog has not been created yet or cannot be found, please run /update first.'
+        )

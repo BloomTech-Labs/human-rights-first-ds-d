@@ -10,6 +10,9 @@ import pickle
 from newspaper import Article
 import spacy
 from collections import Counter
+from datetime import datetime
+from dotenv import load_dotenv
+
 
 # set up various things to be loaded outside of routes
 # router for fastapi
@@ -20,10 +23,9 @@ locs_path = os.path.join(os.path.dirname(
     __file__), '..', '..', 'cities_states.csv')
 locs_df = pd.read_csv(locs_path)
 
-# fix up geolocation dataframe a little
-
 
 def lowerify(text):
+    # fix up geolocation dataframe a little
     return text.lower()
 
 
@@ -44,36 +46,32 @@ model_file = open(model_path, 'rb')
 pipeline = pickle.load(model_file)
 model_file.close()
 
+# local csv backlog path
+backlog_path = os.path.join(os.path.dirname(
+    __file__), '..', '..', 'backlog.csv'
+)
+
 # spacy nlp model
 nlp = spacy.load('en_core_web_sm')
 
-
-class APIKeys(BaseModel):
-    PRAW_CLIENT_ID: str = Field(...)
-    PRAW_CLIENT_SECRET: str = Field(...)
-    PRAW_USER_AGENT: str = Field(...)
-
-    def to_df(self):
-        """Convert pydantic object to pandas dataframe with 1 row."""
-        return dict(self)
+load_dotenv()
 
 
-@router.post('/update')
-async def update(keys: APIKeys):
+@router.get('/update')
+async def update():
     '''
     Update backlog database with data from reddit.
     '''
+    # globalize these variables because I need to
+    PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
+    PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
+    PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
 
-    keys_dict = keys.to_df()
-    # start by connecting to PRAW
-    PRAW_CLIENT_ID = keys_dict['PRAW_CLIENT_ID']
-    PRAW_CLIENT_SECRET = keys_dict['PRAW_CLIENT_SECRET']
-    PRAW_USER_AGENT = keys_dict['PRAW_USER_AGENT']
-    # initialize PRAW via reddit api keys
-    reddit = praw.Reddit(client_id=PRAW_CLIENT_ID,
-                         client_secret=PRAW_CLIENT_SECRET,
-                         user_agent=PRAW_USER_AGENT)
-
+    reddit = praw.Reddit(
+        client_id=PRAW_CLIENT_ID,
+        client_secret=PRAW_CLIENT_SECRET,
+        user_agent=PRAW_USER_AGENT
+    )
     # Grab data from reddit
     data = []
     for submission in reddit.subreddit("news").hot(limit=100):
@@ -103,11 +101,6 @@ async def update(keys: APIKeys):
         date_list.append(article.publish_date)
     df['text'] = content_list
     df['date'] = date_list
-
-    # convert date column to pandas Timestamps
-    def timestampify(date):
-        return pd.Timestamp(date, unit='s').isoformat()
-    df['date'] = df['date'].apply(timestampify)
 
     # drop any articles with missing data columns
     df = df.dropna()
@@ -185,7 +178,7 @@ async def update(keys: APIKeys):
             geo_list.append(geo_entry)
             continue
 
-        # I should now have both city and state
+        # the city and state should be known now
 
         city_list.append(max_city[0].title())
         state_list.append(max_city[1].title())
@@ -224,4 +217,9 @@ async def update(keys: APIKeys):
         'links', 'geocoding'
     ]]
 
-    return df.to_json(orient='records')
+    # save the file to a local csv
+    df.to_csv(backlog_path, index=False)
+    return HTTPException(
+        200,
+        "Backlog Updated at %s with %s entries" % (datetime.now(), df.shape[0])
+    )
