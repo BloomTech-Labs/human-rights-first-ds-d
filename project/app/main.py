@@ -69,7 +69,6 @@ app = FastAPI(
 app.include_router(predict.router)
 app.include_router(viz.router)
 app.include_router(getdata.router)
-app.include_router(ping.router)
 
 
 @app.on_event('startup')
