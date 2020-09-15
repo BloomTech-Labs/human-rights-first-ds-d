@@ -72,7 +72,7 @@ app.include_router(getdata.router)
 
 
 @app.on_event('startup')
-@repeat_every(seconds=60*60*24)  # 24 hours
+@repeat_every(seconds=60*60*1)  # 1 hour
 def run_update() -> None:
     '''
     Update backlog database with data from reddit.
