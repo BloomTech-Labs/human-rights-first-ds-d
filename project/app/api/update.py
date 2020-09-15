@@ -1,10 +1,4 @@
-from fastapi import FastAPI, APIRouter, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
-import uvicorn
-from fastapi_utils.tasks import repeat_every
-
-from app.api import predict, viz, getdata
-
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field, validator
 import pandas as pd
 import praw
@@ -20,10 +14,13 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 
-# set up various things to be loaded outside of the function
+# set up various things to be loaded outside of routes
+# router for fastapi
+router = APIRouter()
+
 # geolocation data
 locs_path = os.path.join(os.path.dirname(
-    __file__), '..', 'cities_states.csv')
+    __file__), '..', '..', 'cities_states.csv')
 locs_df = pd.read_csv(locs_path)
 
 
@@ -44,14 +41,14 @@ for state in list(locs_df.admin_name.unique()):
 
 # police brutality indentifying nlp
 model_path = os.path.join(os.path.dirname(
-    __file__), '..', 'model.pkl')
+    __file__), '..', '..', 'model.pkl')
 model_file = open(model_path, 'rb')
 pipeline = pickle.load(model_file)
 model_file.close()
 
 # local csv backlog path
 backlog_path = os.path.join(os.path.dirname(
-    __file__), '..', 'backlog.csv'
+    __file__), '..', '..', 'backlog.csv'
 )
 
 # spacy nlp model
@@ -59,26 +56,13 @@ nlp = spacy.load('en_core_web_sm')
 
 load_dotenv()
 
-app = FastAPI(
-    title='Human Rights First Data Science API',
-    description='Returns posts from Reddit\'s r/news subreddit on police brutality',
-    version='0.4',
-    docs_url='/',
-)
 
-app.include_router(predict.router)
-app.include_router(viz.router)
-app.include_router(getdata.router)
-
-
-@app.on_event('startup')
-@repeat_every(seconds=60*60*24)  # 24 hours
-def run_update() -> None:
+@router.get('/update')
+async def update():
     '''
     Update backlog database with data from reddit.
     '''
-    print('Updating backlog at %s' % datetime.now())
-
+    # globalize these variables because I need to
     PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
     PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
     PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
@@ -91,9 +75,7 @@ def run_update() -> None:
     # Grab data from reddit
     data = []
     for submission in reddit.subreddit("news").hot(limit=100):
-        data.append([
-            submission.id, submission.title, submission.url
-        ])
+        data.append([submission.id, submission.title, submission.url])
     # construct a dataframe with the data
     col_names = ['id', 'title', 'url']
     df = pd.DataFrame(data, columns=col_names)
@@ -124,11 +106,6 @@ def run_update() -> None:
     df = df.dropna()
     df = df.reset_index()
     df = df.drop(columns='index')
-
-    # convert date column to pandas Timestamps
-    def timestampify(date):
-        return pd.Timestamp(date, unit='s').isoformat()
-    df['date'] = df['date'].apply(timestampify)
 
     # use NLP model to filter posts
     df['is_police_brutality'] = pipeline.predict(df['title'])
@@ -242,16 +219,7 @@ def run_update() -> None:
 
     # save the file to a local csv
     df.to_csv(backlog_path, index=False)
-    print("Backlog updated at %s" % datetime.now())
-
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=['*'],
-    allow_credentials=True,
-    allow_methods=['*'],
-    allow_headers=['*'],
-)
-
-if __name__ == '__main__':
-    uvicorn.run(app)
+    return HTTPException(
+        200,
+        "Backlog Updated at %s with %s entries" % (datetime.now(), df.shape[0])
+    )
