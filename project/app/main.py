@@ -62,7 +62,7 @@ load_dotenv()
 app = FastAPI(
     title='Human Rights First Data Science API',
     description='Returns posts from Reddit\'s r/news subreddit on police brutality',
-    version='0.4',
+    version='0.5',
     docs_url='/',
 )
 
@@ -72,7 +72,7 @@ app.include_router(getdata.router)
 
 
 @app.on_event('startup')
-@repeat_every(seconds=60*60*1)  # 1 hour
+@repeat_every(seconds=60*60*24)  # 24 hours
 def run_update() -> None:
     '''
     Update backlog database with data from reddit.
@@ -90,7 +90,7 @@ def run_update() -> None:
     )
     # Grab data from reddit
     data = []
-    for submission in reddit.subreddit("news").hot(limit=100):
+    for submission in reddit.subreddit("news").top('week', limit=500):
         data.append([
             submission.id, submission.title, submission.url
         ])
