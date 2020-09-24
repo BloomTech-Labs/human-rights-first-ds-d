@@ -1,6 +1,6 @@
 🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline, feel free to add your own flare to it.
 
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by. Make sure to delete the numbers by the end of Labs.
+🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be completed by. Make sure to delete the numbers by the end of Labs.
 
 🚫 Each student has a required minimum number of meaningful PRs each week per the rubric. Contributing to docs does NOT count as a PR to meet your weekly requirements.
 
@@ -37,10 +37,9 @@
 
 1️⃣ [Product Canvas](https://whimsical.com/47hccoy2w65yxpK8dSfpwz)
 
+Our team is developing an interactive map that identifies potential instances of police use of force across the United States of America for Human Rights First, an independent advocacy and action organization.
 
-Our team is developing an interactive map that identifies potential instances of police use of force across the United States of America for Human Rights First, an independent advocacy and action organization. 
-
- We're pulling data from similiar APIs(All locations V2 - https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations-v2.json, 846- https://api.846policebrutality.com/api/incidents) and from Twitter and Reddit. We want to identify aggregate these instances. 
+We're pulling data from similiar APIs(All locations V2 - https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations-v2.json, 846- https://api.846policebrutality.com/api/incidents) and from Twitter and Reddit. We want to identify aggregate these instances.
 
 ### 4️⃣ Key Features
 
@@ -63,6 +62,7 @@ Our team is developing an interactive map that identifies potential instances of
 - Wanted to learn an in-demand framework
 
 🚫List the rest of the data science features and libraries in the same format as the framework above.
+
 - Pandas
 - scikit-learn
 - spacy
@@ -84,7 +84,7 @@ Our team is developing an interactive map that identifies potential instances of
 
 # APIs
 
-## 2️⃣ Data Science API 
+## 2️⃣ Data Science API
 
 We are sending json objects to the backend with information about instances of police use of force. This information includes location data (city, state, and geocode) and relevant details about the incident, like the type of force that was used.
 
@@ -94,8 +94,7 @@ PRAW, The Python Reddit API Wrapper, makes it easy for users to analyze Reddit d
 
 ## 3️⃣ Tweepy
 
-Tweepy is a Python library that allows users to access the Twitter API. We used Tweepy to scan Twitter to find instances of police use of force. 
-
+Tweepy is a Python library that allows users to access the Twitter API. We used Tweepy to scan Twitter to find instances of police use of force.
 
 # 3️⃣ Environment Variables
 
@@ -103,7 +102,6 @@ In order for the app to function correctly, the user must set up their own envir
 
 🚫These are just examples, replace them with the specifics for your app
 
-    
     *  PRAW_CLIENT_ID  - keys for Reddit API
     *  PRAW_CLIENT_SECRET - keys for Reddit API
     *  PRAW_USER_AGENT - keys for Reddit API
