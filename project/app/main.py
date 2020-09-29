@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from fastapi_utils.tasks import repeat_every
 
-from app.api import predict, viz, getdata
+from app.api import predict, getdata
 
 from pydantic import BaseModel, Field, validator
 import pandas as pd
@@ -60,14 +60,13 @@ nlp = spacy.load('en_core_web_sm')
 load_dotenv()
 
 app = FastAPI(
-    title='Human Rights First Data Science API',
-    description='Returns posts from Reddit\'s r/news subreddit on police brutality',
+    title='Human Rights First Data Science API Labs 27',
+    description='Returns posts from multiple news and social media sources on police brutality',
     version='0.5',
     docs_url='/',
 )
 
 app.include_router(predict.router)
-app.include_router(viz.router)
 app.include_router(getdata.router)
 
 
