@@ -12,9 +12,7 @@ router = APIRouter()
 class Item(BaseModel):
     """Use this data model to parse the request body JSON."""
 
-    x1: float = Field(..., example=3.14)
-    x2: int = Field(..., example=-42)
-    x3: str = Field(..., example='banjo')
+    x1: int = Field(..., example=9399)
 
     def to_df(self):
         """Convert pydantic object to pandas dataframe with 1 row."""
@@ -50,6 +48,7 @@ async def predict(item: Item):
     y_pred = random.choice([True, False])
     y_pred_proba = random.random() / 2 + 0.5
     return {
-        'prediction': y_pred,
-        'probability': y_pred_proba
+        'Police_Use_of_Force': "dummy text: returns true/false",
+        'Category': "Projectile/Harassment etc...",
+        'Lethality' : "Lethal/Non Lethal"
     }
