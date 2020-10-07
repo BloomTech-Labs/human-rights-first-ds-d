@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from fastapi_utils.tasks import repeat_every
 
-from app.api import predict, viz, getdata
+from app.api import predict, viz, getdata, update
 
 from pydantic import BaseModel, Field, validator
 import pandas as pd
@@ -69,7 +69,7 @@ app = FastAPI(
 app.include_router(predict.router)
 app.include_router(viz.router)
 app.include_router(getdata.router)
-
+app.include_router(update.router)
 
 @app.on_event('startup')
 @repeat_every(seconds=60*60*24)  # 24 hours
@@ -79,9 +79,9 @@ def run_update() -> None:
     '''
     print('Updating backlog at %s' % datetime.now())
 
-    PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
-    PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
-    PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
+    PRAW_CLIENT_ID = 'D1NQHCUDKQg3TA'
+    PRAW_CLIENT_SECRET = 'GJn8WpYkFXi5CREeEdwKCiRZz4w'
+    PRAW_USER_AGENT = "windows:reddit:v1(david_cruz_0202)"
 
     reddit = praw.Reddit(
         client_id=PRAW_CLIENT_ID,
