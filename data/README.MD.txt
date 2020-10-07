@@ -7,3 +7,5 @@ data
 police_use_force.csv - A CSV with two columns. Col[name] is the name of a story. col[police_brutality] is irrelevant(never varies)
 
 news.csv - A CSV with 1000 scraped news headlines.
+
+redditbrutality_posts.csv - A csv with recent reddit posts and URL's to the linked stories. Missing datetime stamps
