@@ -1,1 +1,4 @@
-Each file holds respective labs groups work.
+# Notebooks for Labs
+
+- Labs 25
+- Labs 27

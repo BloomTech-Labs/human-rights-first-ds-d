@@ -1,8 +1,11 @@
-This folder holds all of Labs_25 notebooks. 
+# This folder holds all of Labs_25 notebooks
 
-Exploratory notebooks hold data exploration and data cleaning notebooks.
+## Notes: 
 
-Model notebooks contain model training methods.
+- Copies were made of data files and are now held in the appropriate data folder. 
+- 
+
+#### Exploratory notebooks:
 
 846_API_Exploratory_Notebook - Holds Dataframe of police brutality records. Source data is a JSON
 'https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations-v2.json'. Team
@@ -10,3 +13,5 @@ Model notebooks contain model training methods.
 
 Filtering_Exploration - Holds Reddit scraper of data . A couple of important functions in here could be used
 as reference for future teams.
+
+#### Model notebooks contain model training methods:
