@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from fastapi_utils.tasks import repeat_every
 
-from app.api import predict, viz, getdata
+from app.api import predict, viz, getdata, update
 
 from pydantic import BaseModel, Field, validator
 import pandas as pd
@@ -59,6 +59,13 @@ nlp = spacy.load('en_core_web_sm')
 
 load_dotenv()
 
+# globalize these variables because I need to
+
+PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
+PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
+PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
+
+
 app = FastAPI(
     title='Human Rights First Data Science API',
     description='Returns posts from Reddit\'s r/news subreddit on police brutality',
@@ -69,7 +76,7 @@ app = FastAPI(
 app.include_router(predict.router)
 app.include_router(viz.router)
 app.include_router(getdata.router)
-
+app.include_router(update.router)
 
 @app.on_event('startup')
 @repeat_every(seconds=60*60*24)  # 24 hours
@@ -79,14 +86,10 @@ def run_update() -> None:
     '''
     print('Updating backlog at %s' % datetime.now())
 
-    PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
-    PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
-    PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
-
     reddit = praw.Reddit(
-        client_id=PRAW_CLIENT_ID,
-        client_secret=PRAW_CLIENT_SECRET,
-        user_agent=PRAW_USER_AGENT
+        client_id= PRAW_CLIENT_ID,
+        client_secret= PRAW_CLIENT_SECRET,
+        user_agent= PRAW_USER_AGENT
     )
     # Grab data from reddit
     data = []
