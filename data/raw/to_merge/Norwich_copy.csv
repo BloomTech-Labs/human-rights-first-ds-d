@@ -1,0 +1,387 @@
+,0,Event #,Call Type,Time of Day,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Alcohol Drugs,PD Force Type,# of Officers,Arrest or ProtectiveCustody,"Subject Injured- If yes, type:","Officer Injured- If yes, type:",Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,State,City
+0,1,1.0,Mental Health,00:31:00,No,25,F,White,Hispanic,None,Forced to Ground,1,PC,No,No,,,,,,CT, Norwich
+1,2,2.0,Domestic Dispute,13:11:00,No,23,M,Black,Non-Hisp.,None,Firearm Displayed,2,Arrest,No,No,,,,,,CT, Norwich
+2,3,3.0,Robbery In Progress,21:02:00,Yes,29,M,White,Non-Hisp.,Heroin,Firearm Discharged,1,Arrest,No,No,,,,,,CT, Norwich
+3,4,4.0,Mental Helath,12:32:00,No,25,M,Black,Non-Hisp.,None,Taser Displayed,5,PC,No,No,,,,,,CT, Norwich
+4,5,5.0,Domestic Dispute/Resisting Arrest,22:38:00,No,43,M,White,Non-Hisp.,None,Forced to Ground,6,Arrest,Yes- Non-visible (Shoulder),No,,,,,,CT, Norwich
+5,6,6.0,Traffic Stop/Resisting Arrest,02:33:00,No,25,F,White,Hispanic,Alcohol,"Non-Compliant Escort Position, Rear Wrist Lock",2,Arrest,No,No,,,,,,CT, Norwich
+6,7,7.0,Domestic Dispute,10:57:00,No,32,M,Black,Non-Hisp.,None,Firearm Displayed,2,Arrest,No,No,,,,,,CT, Norwich
+7,8,8.0,Domestic Dispute,10:30:00,No,26,M,White,Non-Hisp.,None,"Non-Compliant Escort Position, Rear Wrist Lock",2,Arrest,No,No,,,,,,CT, Norwich
+8,9,9.0,Domestic Dispute,18:35:00,No,44,M,White,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,No,No,,,,,,CT, Norwich
+9,10,10.0,Road Rage Incident,14:27:00,Yes,21,M,White,Non-Hisp.,None,Firearms Displayed,4,Arrest,No,No,,,,,,CT, Norwich
+10,11,11.0,Burglary In Progress,12:12:00,No,23,M,White,Non-Hisp.,None,Firearm Displayed,2,None,No,No,,,,,,CT, Norwich
+11,12,12.0,Disturbance/Intoxicated Person,21:58:00,No,41,M,White,Non-Hisp.,Alcohol,Forced to Ground,3,Arrest,Yes-Visible (Facial),No,,,,,,CT, Norwich
+12,13,13.0,Traffic Stop/Resisting Arrest,01:50:00,No,39,F,White,Non-Hisp.,Alcohol,Forced to Ground,3,Arrest,Yes-Non-visible (Shoulder),No,,,,,,CT, Norwich
+13,14,14.0,Domestic Dispute,19:16:00,No,20,M,Black,Non-Hisp.,None,"Non-Compliant Escort Position, Rear Wrist Lock",3,Arrest,No,Yes-laceration to hand and elbow,,,,,,CT, Norwich
+14,15,15.0,Disturbance,04:30:00,Yes,56,M,White,Non-Hisp.,Alcohol,Firearms Displayed,6,Arrest,No,No,,,,,,CT, Norwich
+15,16,16.0,Suspicious subject,15:36:00,No,30,M,White,Non-Hisp.,Alcohol,Taser Displayed,2,Arrest,No,No,,,,,,CT, Norwich
+16,17,17.0,Traffic Stop/Resisting Arrest,19:31:00,No,56,M,White,Non-Hisp.,Alcohol,O.C. Spray/ Rear wrist lock,2,Arrest,Yes-Non-visible (wrist),No,,,,,,CT, Norwich
+17,18,18.0,Mental Health,12:47:00,Yes,45,M,White,Non-Hisp.,Alcohol,Taser Deployment/Escort Position,3,PC,Yes-Self inflicted laceration,No,,,,,,CT, Norwich
+18,19,19.0,Traffic Stop/Resisting Arrest,02:05:00,No,40,M,Black,Non-Hisp.,Alcohol,Forced to Ground,5,Arrest,Yes-Abrasions,No,,,,,,CT, Norwich
+19,20,20.0,Domestic Dispute,19:00:00,No,31,M,White,Non-Hisp.,None,Taser Displayed/Forced to Ground,3,Arrest,"Yes-swollen eye, scratch on forehead",No,,,,,,CT, Norwich
+20,21,21.0,Domestic Dispute,17:45:00,No,22,M,Black,Non-Hisp.,None,Forced to Ground,2,Arrest,No,Yes- right index finger,,,,,,CT, Norwich
+21,22,22.0,Narcotics Investigation,19:15:00,No,45,M,Black,Non-Hisp.,Alcohol,Taser Deployment/Forced to ground,4,Arrest,No,Yes-Facial,,,,,,CT, Norwich
+22,23,23.0,Narcotics Investigation,19:00:00,No,21,M,Black,Non-Hisp.,None,Taser Deployment/Forced to ground,2,Arrest,Yes- scratch on face/neck,Yes- Right knee,,,,,,CT, Norwich
+23,24,24.0,Disturbance,20:05:00,No,20,M,Black,Non-Hisp.,Alcohol,Forced to Ground/Elbow & Knee strike,3,Arrest,Yes- scratch on face/elbow,Yes- Jaw and neck pain,,,,,,CT, Norwich
+24,25,25.0,Domestic Dispute,22:45:00,No,36,M,White,Non-Hisp.,Alcohol,Forced to Ground/Escort Position,3,Arrest,Yes- Non-visible (Arm),No,,,,,,CT, Norwich
+25,26,26.0,Disturbance,20:49:00,No,45,M,Black,Non-Hisp.,Cocaine,Taser Deployment,3,Arrest,Yes- left wrist and laceration to eye,No,,,,,,CT, Norwich
+26,27,27.0,Mental Health,22:39:00,No,30,M,White,Non-Hisp.,None,Taser Deployment,5,PC,Yes-non-visible (head and neck),No,,,,,,CT, Norwich
+27,28,28.0,Fight in Progress,14:00:00,No,36,M,Black,Non-Hisp.,None,Forced to Ground,2,Arrest,No,Yes- knee,,,,,,CT, Norwich
+28,29,29.0,Traffic Stop/Resisting Arrest,02:00:00,No,24,M,Black,Non-Hisp.,Cociane,Forced to Ground/Closed hand strike,2,Arrest,No,"Yes-elbow, knees",,,,,,CT, Norwich
+29,30,30.0,Suspicious subject,11:45:00,No,30,M,Black,Non-Hisp.,Heroin,Forced to Ground,2,Arrest,Yes- non-visible (foot) ,Yes- leg,,,,,,CT, Norwich
+30,31,31.0,Disturbance/Barricaded Suspect,17:50:00,Yes,26,M,White,Hispanic,None,Firearms Displayed,8,Arrest,No,No,,,,,,CT, Norwich
+31,32,32.0,Suspicious Subject,05:00:00,Yes,18,M,White,Non-Hisp.,None,Firearms Displayed,6,Arrest,No,No,,,,,,CT, Norwich
+32,33,33.0,Domestic Dispute/Mental Health,02:49:00,No,35,M,White,Hispanic,None,Closed Hand Strike/Rear Wrist Lock,3,PC,No,Yes- right thigh,,,,,,CT, Norwich
+33,34,34.0,Domestic Dispute,00:51:00,No,22,M,Black,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,Yes- Self inflicted laceration,No,,,,,,CT, Norwich
+34,35,35.0,Domestic Dispute,13:44:00,No,30,M,Black,Non-Hisp.,Alcohol,OC Spray Deployment,2,Arrest,No,No,,,,,,CT, Norwich
+35,36,36.0,Domestic Dispute,05:00:00,No,62,F,Black,Non-Hisp.,Alcohol,Firearms Displayed,2,Arrest,No,No,,,,,,CT, Norwich
+36,37,37.0,Disturbance,02:30:00,No,31,M,Black,Non-Hisp.,Alcohol,Forced to Ground,3,Arrest,No,No,,,,,,CT, Norwich
+37,38,38.0,Domestic Dispute,00:23:00,No,25,M,White,Hispanic,Alcohol,Forced to Ground/Wrist lock ,2,Arrest,No,No,,,,,,CT, Norwich
+38,39,39.0,Wanted Person/Resisting Arrest,18:30:00,Yes,25,M,White,Non-Hisp.,Alcohol,Firearm Discharged,1,Arrest,Yes-self inflicted gunshot,No,,,,,,CT, Norwich
+39,40,40.0,Mental Health,18:39:00,No,42,M,White,Non-Hisp.,Alcohol,Taser Displayed,4,PC,No,No,,,,,,CT, Norwich
+40,41,41.0,Domestic Dispute,20:13:00,No,36,M,Black,Non-Hisp.,Alcohol,Taser Displayed/Forced to Ground/Wrist lock,3,Arrest,No,No,,,,,,CT, Norwich
+41,42,42.0,Domestic Dispute/Mental Health,00:48:00,No,47,M,White,Non-Hisp.,Alcohol,Taser/Firearm Displayed,4,PC,No,No,,,,,,CT, Norwich
+42,43,43.0,Wanted Person/Resisting Arrest,16:38:00,No,35,M,White,Hispanic,None,Forced to Ground,2,Arrest,"Yes-laceration (facial), left wrist",No,,,,,,CT, Norwich
+43,44,44.0,Wanted Person/Resisting Arrest,21:30:00,No,34,M,White,Hispanic,None,Taser/Firearm Displayed,3,Arrest,No,No,,,,,,CT, Norwich
+44,45,45.0,Traffic Stop/Resisting Arrest,19:15:00,No,15,M,Black,Non-Hisp.,None,Forced to Ground,3,Arrest,Yes- laceration to chin and hands,No,,,,,,CT, Norwich
+45,46,44.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+46,47,45.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+47,48,46.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+48,49,47.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+49,50,48.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+50,51,49.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+51,52,50.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+52,53,51.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+53,54,52.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+54,55,53.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+55,56,54.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+56,57,55.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+57,58,56.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+58,59,57.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+59,60,58.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+60,61,59.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+61,62,60.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+62,63,61.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+63,64,62.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+64,65,63.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+65,66,64.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+66,67,65.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+67,68,66.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+68,69,67.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+69,70,68.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+70,71,69.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+71,72,70.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+72,73,71.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+73,74,72.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+74,75,73.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+75,76,74.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+76,77,75.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+77,78,76.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+78,79,77.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+79,80,78.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+80,81,79.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+81,82,80.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+82,83,81.0,,,,,,,,,,,,,,,,,,,CT, Norwich
+83,84,,Call Type,Time of Day,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Alcohol Drugs,PD Force Type,# of Officers,Arrest or ProtectiveCustody,"Subject Injured- If yes, type:","Officer Injured- If yes, type:",Event #,,,,,CT, Norwich
+84,85,,Disturbance,4:30AM,No,25,F,White,Non-Hisp.,None,Forced to Ground,2,Arrest,Yes-Prior to police contact,No,1,,,,,CT, Norwich
+85,86,,MV accident,12:00PM,No,25,M,White,Hispanic,None,"Forced to Ground, Closed hand strike",3,Arrest,No,"Yes, right side of face",2,,,,,CT, Norwich
+86,87,,Wanted Person,4:39PM,No,34,M,Black,Non-Hisp.,Yes/Drugs,Forced to ground,1,Arrest,No,No,3,,,,,CT, Norwich
+87,88,,DUI,12:20AM,No,28,F,Black,Hispanic,Yes/Alcohol,Physical Force used to handcuff,2,Arrest,No,No,4,,,,,CT, Norwich
+88,89,,Domestic Dispute,10:50AM,No,38,M,White,Non-Hisp.,None,Taser Displayed,2,Arrest,No,No,5,,,,,CT, Norwich
+89,90,,Suspicious Activity,06:22PM,No,26,M,White,Non-Hisp.,None,"Forced to Ground, Closed hand strike",1,Arrest,"Yes, laceration to face","Yes, abdomen, right hand",6,,,,,CT, Norwich
+90,91,,Fight in progress,04:05PM,No,17,M,Black,Non-Hisp.,None,Forced to Ground,2,Arrest,No,Yes,7,,,,,CT, Norwich
+91,92,,Mental Health,10:07PM,No,49,F,White,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,No,No,8,,,,,CT, Norwich
+92,93,,Disturbance,08:14PM,No,43,M,Black,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,No,"Yes, lower back",9,,,,,CT, Norwich
+93,94,,Domestic dispute,08:37AM,No,47,F,White,Non-Hisp.,Alcohol,Escort position,1,Arrest,No,No,10,,,,,CT, Norwich
+94,95,,Burglary In Progress,01:57AM,No,28,M,White,Non-Hisp.,None,K9 and Firearms displayed,6,None,No,No,11,,,,,CT, Norwich
+95,96,,Intoxicated Subject,09:48PM,No,35,M,White,Non-Hisp.,None,"Forced to the gorund, escort position",2,Arrest,No,No,12,,,,,CT, Norwich
+96,97,,Disturbance,7:05PM,No,23,M,White,Hispanic,Alcohol,Physical Force used to handcuff,2,Arrest,No,Yes-skinned knuckles,13,,,,,CT, Norwich
+97,98,,Domestic dispute,11:00PM,No,34,M,White,Non-Hisp.,None,"Forced to ground, escort position",2,Arrest,No,No,14,,,,,CT, Norwich
+98,99,,Disturbance,5:54PM,No,20,F,White,Non-Hisp.,None,Forced to ground,2,Arrest,No,No,15,,,,,CT, Norwich
+99,100,,Suspicious subject,5:09PM,No,41,F,White,Non-Hisp.,Alcohol,Physical force used to transport,3,Arrest,No,No,16,,,,,CT, Norwich
+100,101,,Domestic Dispute,3:41PM,No,36,M,Black,Non-Hisp.,Alcohol,Firearm Displayed ,2,Arrest,No,No,17,,,,,CT, Norwich
+101,102,,Threatening,10:16PM,No,49,M,White,Non-Hisp.,Alcohol/Drugs,Forced to ground,2,Arrest,No,No,18,,,,,CT, Norwich
+102,103,,Domestic Disturbance,02:35AM,No,36,F,White,Non-Hisp.,None,Escort Position,3,Arrest,Yes-wrist pain,No,19,,,,,CT, Norwich
+103,104,,Intoxicated Person,10:32PM,No,33,F,White,Non-Hisp.,Alcohol,"Forced to ground, strikes, escort position",1,Arrest,No,"Yes, Head, Knee, Ear",20,,,,,CT, Norwich
+104,105,,Armed Subject,2:52PM,No,17,M,Black,Non-Hisp.,None,Firearms Displayed,4,Arrest,No,No,21,,,,,CT, Norwich
+105,106,,Intoxicated Subject,3:34AM,No,30,F,White,Non-Hisp.,Alcohol,"Forced to ground, escort position",2,Arrest,No,No,22,,,,,CT, Norwich
+106,107,,Intoxicated Subject,3:34AM,No,45,M,Black,Non-Hisp.,Alcohol,Physical Force to restrain,2,Arrest,No,No,23,,,,,CT, Norwich
+107,108,,Subject with warrant,5:45AM,No,48,F,White,Non-Hisp.,None,Forced to Ground,2,Arrest,No,No,24,,,,,CT, Norwich
+108,109,,Intoxicated Male ,6:45PM,No,41,M,White,Non-Hisp.,Alcohol,Forced to ground,3,Arrest,No,No,25,,,,,CT, Norwich
+109,110,,Subject with warrant,9:09AM,No,39,M,White,Non-Hisp.,None,"Taser Deploymet, escort position",3,Arrest,"Yes, abrasion",No,26,,,,,CT, Norwich
+110,111,,Criminal Trespass,10:55AM,No,27,F,Black,Non-Hisp.,None,Escort Position,4,Arrest,No,No,27,,,,,CT, Norwich
+111,112,,Mental Health,5:39PM,Yes,44,F,White,Non-Hisp.,None,"Taser Deplyment, escort position",3,PC,"Yes, taser probes",No,28,,,,,CT, Norwich
+112,113,,MV accident,1:05AM,No,18,M,White,Hispanic,Alcohol,Taser Deployment,3,Arrest,No,No,29,,,,,CT, Norwich
+113,114,,Domestic Dispute,11:00PM,No,32,F,White,Hispanic,None,Taser Displayed,2,Arrest,No,No,30,,,,,CT, Norwich
+114,115,,Domestic Dispute,4:58AM,No,18,M,Black,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,No,No,31,,,,,CT, Norwich
+115,116,,Mental Health,10:09PM,No,28,M,Black,Non-Hisp.,Drugs,Taser Displayed,5,PC,No,No,32,,,,,CT, Norwich
+116,117,,Assist Citizen,3:30PM,No,30,F,White,Non-Hisp.,None,Knee Strike,2,Arrest,No,"Yes, right wrist",33,,,,,CT, Norwich
+117,118,,Disturbance,04:00PM,No,16,M,Black,Non-Hisp.,None,Forced to ground/Non-compliant escort ,1,Arrest,No,No,34,,,,,CT, Norwich
+118,119,,MV accident,9:40PM,No,18,F,White,Non-Hisp.,Alcohol,"Forced to ground, escort position",3,Arrest,No,No,35,,,,,CT, Norwich
+119,120,,Mental Health,2:15AM,No,46,M,White,Non-Hisp.,Alcohol,Forced to ground,3,Arrest,"Yes, abrasions","Yes, left hand left wrist",36,,,,,CT, Norwich
+120,121,,Disturbance,3:37PM,No,60,F,Black,Non-Hisp.,Alcohol,"Forced to ground, escort position",2,Arrest,"Yes, cut to mouth","Yes, cut to forhead",37,,,,,CT, Norwich
+121,122,,Subject with warrant,2:05PM,No,58,m,White,Non-Hisp.,None,Escort position,2,Arrest,No,NO,38,,,,,CT, Norwich
+122,123,,Suspicious Activity,10:55PM,No,18,M,Black,Non-Hisp.,None,"Forced to ground, knee strike",1,Arrest,No,No,39,,,,,CT, Norwich
+123,124,,Domestic Dispute,10:24PM,No,39,M,White,Non-Hisp.,None,Forced to ground,3,Arrest,No,No,40,,,,,CT, Norwich
+124,125,,Suspicious Activity,7:40PM,No,20,M,Black,Non-Hisp.,Alcohol,Forced to ground,2,Arrest,No,No,41,,,,,CT, Norwich
+125,126,,Distrubance,11:50AM,No,25,F,White,Hispanic,None,Physical forced used to handcuff,2,Arrest,No,No,42,,,,,CT, Norwich
+126,127,,Structure Fire,01:15AM,No,26,M,White,Hispanic,None,Grapple/Wrestle,3,Arrest,No,No,43,,,,,CT, Norwich
+127,128,,Mental Health,6:35PM,No,30,M,White,Non-Hisp.,Alc/Drugs,"Forced to ground, escort position, taser",4,Arrest,"Yes, laceration to face","Yes, elbow, hand, finger",44,,,,,CT, Norwich
+128,129,,Disturbance,3:30AM,No,19,F,White,Hispanic,Alc/Drugs,"Forced to ground, escort position",4,Arrest,No,"Yes, unknown",45,,,,,CT, Norwich
+129,130,,Domestic Dispute,12:30PM,No,49,F,White,Non-Hisp.,None,Forced to Ground,2,Arrest,No,No,46,,,,,CT, Norwich
+130,131,,Well Being Check,2:30PM,No,23,M,White,Non-Hisp.,None,"Forced to ground, taser displayed",2,Arrest,No,"Yes, soreness to neck and arm",47,,,,,CT, Norwich
+131,132,,Disturbance,8:00PM,No,42,M,Black,Non-Hisp.,None,Firearms displayed,6,None,No,No,48,,,,,CT, Norwich
+132,133,,Larceny,2:30PM,No,37,M,White,Non-Hisp.,None,Forced to ground,1,Arrest,"Yes, abrasion right elbow","Yes, right ankle foot",49,,,,,CT, Norwich
+133,134,,Domestic Dispute,9:45PM,No,22,M,White,Non-Hisp.,Alcohol,Taser Deployment,1,Arrest,No,No,50,,,,,CT, Norwich
+134,135,,Domestic Dispute,9:28PM,No,25,M,Black,Non-Hisp.,Alcohol,"Open hand strike, Force used to handcuff",3,Arrest,"Yes, left eye and eyebrow",No,51,,,,,CT, Norwich
+135,136,,Suspicious Activity,6:52AM,No,34,M,Black,Non-Hisp.,None,"Forced to ground, escort position",3,Arrest,No,No,52,,,,,CT, Norwich
+136,137,,Domestic Dispute,10:15PM,No,36,M,Black,Non-Hisp.,None,"Taser Displayed, elbow and knee strike",3,Arrest,"Yes, cut on cheek and forehead",No,53,,,,,CT, Norwich
+137,138,,Disturbance,11:24AM,No,34,M,Black,Non-Hisp.,None,Taser Deployment,2,Arrest,No,No,54,,,,,CT, Norwich
+138,139,,Mental Health,9:30PM,No,30,M,White,Hispanic,None,Forced to ground,2,PC,No,No,55,,,,,CT, Norwich
+139,140,,Traffic Stop,10:00PM,No,25,M,Black,Non-Hisp.,Alcohol,"Forced to ground, escort position",2,Arrest,No,No,56,,,,,CT, Norwich
+140,141,,Domestic Dispute,9:45PM,No,61,M,White,Non-Hisp.,Alc/Drugs,Physical Force used to handcuff,2,Arrest,"Yes, self inflicted head wound",No,57,,,,,CT, Norwich
+141,142,,Burglary In Progress,9:30PM,No,39,M,White,Non-Hisp.,Alc/Drugs,"Forced to ground, escort position",5,Arrest,No,No,58,,,,,CT, Norwich
+142,143,,Domestic Dispute,10:06AM,No,17,F,White,Hispanic,None,"Forced to ground, escort position",2,Arrest,No,No,59,,,,,CT, Norwich
+143,144,,Disturbance,01:45AM,No,38,M,Black,Non-Hisp.,Alcohol,"Forced to ground, escort postion",2,Arrest,No,No,60,,,,,CT, Norwich
+144,145,,Fight in Progress,11:53AM,No,28,M,Black,Non-Hisp.,None,Taser Deployment,1,Arrest,No,No,61,,,,,CT, Norwich
+145,146,,Well Being Check,3:03PM,No,61,F,White,Non-Hisp.,Alcohol,"Forced used to handcuff, escort position",2,Arrest,No,No,62,,,,,CT, Norwich
+146,147,,Traffic Stop,6:45PM,No,46,M,Black,Non-Hisp.,Alcohol,"Taser Deplyment, escort position",4,Arrest,No,No,63,,,,,CT, Norwich
+147,148,,Disturbance,09:50AM,No,51,F,Black,Non-Hisp.,Alcohol,Forced to ground/Non-compliant escort ,2,Arrest,No,No,64,,,,,CT, Norwich
+148,149,,Larceny,5:00PM,No,50,F,White,Non-Hisp.,None,Forced to ground,1,Arrest,No,No,65,,,,,CT, Norwich
+149,150,,Disturbance,12:55AM,No,61,M,White,Non-Hisp.,None,Forced to Ground,2,Arrest,No,No,66,,,,,CT, Norwich
+150,151,,Domestic Dispute,8:00PM,No,22,M,White,Non-Hisp.,None,"Taser Deplyment, escort position",2,Arrest,"Yes, abrasions to hands and back","Yes, laceration to arm",67,,,,,CT, Norwich
+151,152,,Traffic Stop,4:00AM,No,27,M,White,Hispanic,Alc/Drugs,"Forced to ground, escort position",3,Arrest,No,No,68,,,,,CT, Norwich
+152,153,,Mental Health,3:45AM,Yes,54,m,White,Non-Hisp.,Alcohol,"Firearms, Less Lethal, Taser displayed, Escort ",9,PC,No,No,69,,,,,CT, Norwich
+153,154,,Disturbance,7:57PM,No,74,M,Black,Non-Hisp.,None,Firearms Displayed,7,PC,No,No,70,,,,,CT, Norwich
+154,155,,Mental Health,4:44PM,No,44,M,Black,Non-Hisp.,None,Firearms displayed,8,Arrest,No,No,71,,,,,CT, Norwich
+155,156,,Larceny,7:00PM,No,24,M,White,Non-Hisp.,None,Forced to ground/Closed hand strike,3,Arrest,No,"Yes, strain of shoulder",72,,,,,CT, Norwich
+156,157,,Subject with warrant,12:05PM,No,47,M,Black,Non-Hisp.,None,Forced to ground,1,Arrest,No,No,73,,,,,CT, Norwich
+157,158,,Disturbance,9:00PM,No,40,F,White,Hispanic,Alcohol,"Forced to ground, knee strike",2,Arrest,"Yes, scrapes to forehead","Yes, left leg left ring finger",74,,,,,CT, Norwich
+158,159,,Mental Health,06:50PM,No,19,M,White,Non-Hisp.,None,Firearms displayed,4,PC,No,No,75,,,,,CT, Norwich
+159,160,,Domestic Dispute,3:40PM,No,30,M,Black,Non-Hisp.,None,K-9 Displayed,2,Arrest,No,No,76,,,,,CT, Norwich
+160,161,,,,,,,,,,,,,,,77,,,,,CT, Norwich
+161,162,,,,,,,,,,,,,,,78,,,,,CT, Norwich
+162,163,,,,,,,,,,,,,,,79,,,,,CT, Norwich
+163,164,,,,,,,,,,,,,,,80,,,,,CT, Norwich
+164,165,,,,,,,,,,,,,,,81,,,,,CT, Norwich
+165,166,,,,,,,,,,,,,,,82,,,,,CT, Norwich
+166,167,,,,,,,,,,,,,,,83,,,,,CT, Norwich
+167,168,,,,,,,,,,,,,,,84,,,,,CT, Norwich
+168,169,,,,,,,,,,,,,,,85,,,,,CT, Norwich
+169,170,,,,,,,,,,,,,,,86,,,,,CT, Norwich
+170,171,,,,,,,,,,,,,,,87,,,,,CT, Norwich
+171,172,,,,,,,,,,,,,,,88,,,,,CT, Norwich
+172,173,,,,,,,,,,,,,,,89,,,,,CT, Norwich
+173,174,,,,,,,,,,,,,,,90,,,,,CT, Norwich
+174,175,,,,,,,,,,,,,,,91,,,,,CT, Norwich
+175,176,,,,,,,,,,,,,,,92,,,,,CT, Norwich
+176,177,,,,,,,,,,,,,,,93,,,,,CT, Norwich
+177,178,,,,,,,,,,,,,,,94,,,,,CT, Norwich
+178,179,,,,,,,,,,,,,,,95,,,,,CT, Norwich
+179,180,,,,,,,,,,,,,,,96,,,,,CT, Norwich
+180,181,,,,,,,,,,,,,,,97,,,,,CT, Norwich
+181,182,,,,,,,,,,,,,,,98,,,,,CT, Norwich
+182,183,,,,,,,,,,,,,,,99,,,,,CT, Norwich
+183,184,,,,,,,,,,,,,,,100,,,,,CT, Norwich
+184,185,,,,,,,,,,,,,,,101,,,,,CT, Norwich
+185,186,,,,,,,,,,,,,,,102,,,,,CT, Norwich
+186,187,,,,,,,,,,,,,,,103,,,,,CT, Norwich
+187,188,,,,,,,,,,,,,,,104,,,,,CT, Norwich
+188,189,,,,,,,,,,,,,,,105,,,,,CT, Norwich
+189,190,,,,,,,,,,,,,,,106,,,,,CT, Norwich
+190,191,,,,,,,,,,,,,,,107,,,,,CT, Norwich
+191,192,,,,,,,,,,,,,,,108,,,,,CT, Norwich
+192,193,,,,,,,,,,,,,,,109,,,,,CT, Norwich
+193,194,,,,,,,,,,,,,,,110,,,,,CT, Norwich
+194,195,,,,,,,,,,,,,,,111,,,,,CT, Norwich
+195,196,,,,,,,,,,,,,,,112,,,,,CT, Norwich
+196,197,,,,,,,,,,,,,,,113,,,,,CT, Norwich
+197,198,,,,,,,,,,,,,,,114,,,,,CT, Norwich
+198,199,,,,,,,,,,,,,,,115,,,,,CT, Norwich
+199,200,,,,,,,,,,,,,,,116,,,,,CT, Norwich
+200,201,,,,,,,,,,,,,,,117,,,,,CT, Norwich
+201,202,,,,,,,,,,,,,,,118,,,,,CT, Norwich
+202,203,,,,,,,,,,,,,,,119,,,,,CT, Norwich
+203,204,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+204,205,,*Under Investigation (UI),02/20/2019 1045 hours,UI,UI,UI,UI,UI,UI,UI,UI,UI,UI,UI,,1,UI,UI,,CT, Norwich
+205,206,,,,,,,,,,,,,,,,,,,,CT, Norwich
+206,207,,,,,,,,,,,,,,,,2018 Officer-involved Shootings,,,,CT, Norwich
+207,208,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+208,209,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+209,210,,,,,,,,,,,,,,,,,,,,CT, Norwich
+210,211,,,,,,,,,,,,,,,,,,,,CT, Norwich
+211,212,,,,,,,,,,,,,,,,2017 Officer-involved Shootings,,,,CT, Norwich
+212,213,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+213,214,,*Under Investigation (UI),10/24/2017 1830 hours,UI,UI,UI,UI,UI,UI,UI,UI,UI,UI,UI,,2,UI,UI,,CT, Norwich
+214,215,,,,,,,,,,,,,,,,,,,,CT, Norwich
+215,216,,,,,,,,,,,,,,,,2017 Officer-involved Shootings,,,,CT, Norwich
+216,217,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+217,218,,Interupted Robbery,01/21/2017 2102 hours,Facsimile Handgun,29,M,W,Non-Hispanic,Yes,Handgun,5,0,No,M,,1,W,No,,CT, Norwich
+218,219,,,,,,,,,,,,,,,,,,,,CT, Norwich
+219,220,,,,,,,,,,,,,,,,2016 Officer-involved Shootings,,,,CT, Norwich
+220,221,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+221,222,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+222,223,,,,,,,,,,,,,,,,,,,,CT, Norwich
+223,224,,,,,,,,,,,,,,,,2015 Officer-involved Shootings,,,,CT, Norwich
+224,225,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+225,226,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+226,227,,,,,,,,,,,,,,,,,,,,CT, Norwich
+227,228,,,,,,,,,,,,,,,,2014 Officer-involved Shootings,,,,CT, Norwich
+228,229,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+229,230,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+230,231,,,,,,,,,,,,,,,,,,,,CT, Norwich
+231,232,,,,,,,,,,,,,,,,2013 Officer-involved Shootings,,,,CT, Norwich
+232,233,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+233,234,,Armed Subject,02/24/2013 1918 hours,Facsimile Handgun,52,M,W,Non-Hispanic,Yes,Handgun/Rifle,41,6,Yes- Fatal,M,,2,W,No,,CT, Norwich
+234,235,,,,,,,,,,,,,,,,,,,,CT, Norwich
+235,236,,,,,,,,,,,,,,,,2013 Officer-involved Shootings,,,,CT, Norwich
+236,237,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+237,238,,Suicidal Subject,01/07/2013 1444 hours,Handgun/Rifle,30,M,B,Non-Hispanic,Yes,Handgun/Rifle,35+,0,Fatal- Suicide,M,,1,W,Yes-One officer suffered multiple gunshot wounds from the suspect. ,,CT, Norwich
+238,239,,,,,,,,,,,,,,,,,,,,CT, Norwich
+239,240,,,,,,,,,,,,,,,,2012 Officer-involved Shootings,,,,CT, Norwich
+240,241,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+241,242,,Mental Health Evaluation,08/28/2012 0548 hours,Motor Vehicle,20,M,B,Non-Hispanic,Yes,Handgun,4,1,Yes- Non-Fatal,M,,1,B,"Yes-Officer struck by vehicle. Injured right hand, right hip and right knee. ",,CT, Norwich
+242,243,,,,,,,,,,,,,,,,,,,,CT, Norwich
+243,244,,,,,,,,,,,,,,,,2011 Officer-involved Shootings,,,,CT, Norwich
+244,245,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+245,246,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+246,247,,,,,,,,,,,,,,,,,,,,CT, Norwich
+247,248,,,,,,,,,,,,,,,,2010 Officer-involved Shootings,,,,CT, Norwich
+248,249,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+249,250,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+250,251,,,,,,,,,,,,,,,,,,,,CT, Norwich
+251,252,,,,,,,,,,,,,,,,2009 Officer-involved Shootings,,,,CT, Norwich
+252,253,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+253,254,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+254,255,,,,,,,,,,,,,,,,,,,,CT, Norwich
+255,256,,,,,,,,,,,,,,,,2008 Officer-involved Shootings,,,,CT, Norwich
+256,257,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+257,258,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+258,259,,,,,,,,,,,,,,,,,,,,CT, Norwich
+259,260,,,,,,,,,,,,,,,,2007 Officer-involved Shootings,,,,CT, Norwich
+260,261,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+261,262,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+262,263,,,,,,,,,,,,,,,,,,,,CT, Norwich
+263,264,,,,,,,,,,,,,,,,2006 Officer-involved Shootings,,,,CT, Norwich
+264,265,,Call Type,Time,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Subject Alcohol Drugs,Police Weapon,# of Shots Fired,# of Times Subject Hit,"Subject Injured- If yes, type:",Officer's Gender,,Event #,Officer's Race/Ethnicity,"Officer Injured- If yes, type:",,CT, Norwich
+265,266,,NONE,,,,,,,,,,,,,,1,,,,CT, Norwich
+266,267,,Call Type,Time of Day,Subject Weapon,Subject Age,Subject Gender,Subject Race,Subject Ethnicity,Alcohol Drugs,PD Force Type,# of Officers,Arrest or ProtectiveCustody,"Subject Injured- If yes, type:","Officer Injured- If yes, type:",,,,,Event #,CT, Norwich
+267,268,,Intoxicated Subject,18:30:00,No,31,M,White,Hispanic,Alcohol/Drugs,Forced to Ground,2,Arrest,Complained of injured wrist,No,,,,,1,CT, Norwich
+268,269,,Domestic/Assault,09:00AM,Yes,23,M,White,Hispanic,None,OC Spray Deployment,3,Arrest,No,"Yes, knee pain",,,,,2,CT, Norwich
+269,270,,Mental Health,06:00PM,No,13,M,White,Non-Hisp.,None,"Non-Compliant Escort Position, Rear Wrist Lock",2,PC,No,No,,,,,3,CT, Norwich
+270,271,,Mental Health,07:00AM,No,67,M,White,Non-Hisp.,None,"Non-Compliant Escort Position, Rear Wrist Lock",3,PC,Yes-laceration to top of hand,No,,,,,4,CT, Norwich
+271,272,,Domestic Dispute,10:35PM,No,47,M,White,Non-Hisp.,Drugs,Forced to Ground,2,Arrest,No,No,,,,,5,CT, Norwich
+272,273,,Suspicious Activity,08:37PM,No,43,F,White,Non-Hisp.,Alcohol,Forced to Ground,2,Arrest,No,"Yes, right side of face",,,,,6,CT, Norwich
+273,274,,Disturbance,02:00AM,No,29,M,Black,Non-Hisp.,None,Forced to Ground,1,PC,No,No,,,,,7,CT, Norwich
+274,275,,Domestic Dispute,06:50PM,No,27,M,White,Non-Hisp.,Alcohol,"Non-Compliant Escort Position, Rear Wrist Lock",3,Arrest,Yes- laceration to face,No,,,,,8,CT, Norwich
+275,276,,Intoxicated Subject,11:00PM,No,23,M,Black,Non-Hisp.,Alcohol,Forced to Ground,2,PC,No,No,,,,,9,CT, Norwich
+276,277,,Robbery/Assault,05:15PM,Yes,34,M,Black,Non-Hisp.,None,Firearms Displayed,1,Arrest,No,No,,,,,10,CT, Norwich
+277,278,,Traffic Stop/Resisting Arrest,06:40PM,No,34,M,White,Non-Hisp.,None,"Non-Compliant Escort Position, K9 displayed",1,Arrest,No,No,,,,,11,CT, Norwich
+278,279,,Fight in Progress,11:38AM,No,22,M,White,Non-Hisp.,None,Taser Deployment,2,Arrest,No,No,,,,,12,CT, Norwich
+279,280,,Disturbance,12:20PM,No,67,M,White,Non-Hisp.,None,"K9 bite, firearm displayed",8,Arrest,Yes-K9 bite marks,No,,,,,13,CT, Norwich
+280,281,,Domestic Dispute,11:15PM,No,48,M,Black,Non-Hisp.,Alcohol,Firearm Displayed,3,Arrest,No,No,,,,,14,CT, Norwich
+281,282,,Trespassing,06:00PM,No,20,M,White,Hispanic,Alcohol,Forced to Ground/Closed Hand Strike,2,Arrest,"Yes-Shoulder Pain, Mouth Laceration","Yes-Both officers, wrist and knee pain",,,,,15,CT, Norwich
+282,283,,Suspicious subject,01:15PM,No,19,M,Black,Non-Hisp.,Alcohol,Forced to Ground,3,Arrest,No,Yes-Knee bruising/swelling,,,,,16,CT, Norwich
+283,284,,Animal Complaint,02:40PM,No,42,M,Black,Non-Hisp.,Alcohol,Taser Deployment/Escort Position,4,Arrest,No,Yes-wrist,,,,,17,CT, Norwich
+284,285,,Disturbance,04:01AM,No,18,M,White,Hispanic,Alcohol/Drugs,Taser Deployment/Escort Position,1,Arrest,No,No,,,,,18,CT, Norwich
+285,286,,Subject with warrant,05:35PM,No,23,M,Black,Non-Hisp.,None,Forced to Ground/Closed Hand Strike,4,Arrest,Yes-Abrasions,Yes-Abrasions,,,,,19,CT, Norwich
+286,287,,Armed Person,11:30PM,Yes,24,M,Black,Non-Hisp.,None,Firearms Displayed,2,Arrest,No,No,,,,,20,CT, Norwich
+287,288,,Domestic Dispute,17:45:00,No,22,M,Black,Non-Hisp.,None,Forced to Ground,2,Arrest,No,Yes- right index finger,,,,,21,CT, Norwich
+288,289,,Intoxicated Subject,07:30PM,No,37,M,White,Hispanic,Alcohol,Open hand strike/Escort Position,1,PC,Yes-Abrasions,No,,,,,22,CT, Norwich
+289,290,,Disturbance,04:26AM,No,28,M,Black,Non-Hisp.,Drugs,Forced to Ground,4,PC,Yes-right wrist,No,,,,,23,CT, Norwich
+290,291,,Domestic Dispute,01:02AM,No,37,F,Black,Non-Hisp.,None,Physical Force used to handcuff,4,Arrest,No,No,,,,,24,CT, Norwich
+291,292,,Domestic Dispute,01:02AM,No,41,M,White,Hispanic,None,Physical Force used to handcuff,4,Arrest,No,No,,,,,25,CT, Norwich
+292,293,,Domestic Dispute/EDP,08:20PM,No,23,M,Black,Non-Hisp.,Alcohol,Firearm Displayed/Forced to ground,3,Arrest,Yes-Face and left elbow,No,,,,,26,CT, Norwich
+293,294,,MV stop/Foot pursuit,09:22PM,No,26,M,White,Non-Hisp.,None,Forced to Ground,4,Arrest,No,No,,,,,27,CT, Norwich
+294,295,,MV stop/DUI,12:31AM,No,49,M,Black,Non-Hisp.,Alcohol,Physical Force used to handcuff,2,Arrest,No,No,,,,,28,CT, Norwich
+295,296,,Suspicious subject,02:59AM,Yes,26,M,White,Hispanic,None,Firearms Displayed,5,Arrest,No,No,,,,,29,CT, Norwich
+296,297,,Suspicious subject,01:55AM,No,23,M,Black,Non-Hisp.,None,Forced to ground/Non-compliant escort ,2,Arrest,No,No,,,,,30,CT, Norwich
+297,298,,Disturbance,12:08AM,No,15,M,White,Non-Hisp.,None,Physical Force used to handcuff,2,Arrest,Yes-wrist,No,,,,,31,CT, Norwich
+298,299,,Disturbance,12:08AM,No,57,F,White,Non-Hisp.,None,Physical Force used to handcuff,2,Arrest,No,No,,,,,32,CT, Norwich
+299,300,,Disturbance,12:08AM,No,25,F,White,Non-Hisp.,None,Physical Force used to handcuff,2,Arrest,No,No,,,,,33,CT, Norwich
+300,301,,Disturbance,04:00PM,No,16,M,Black,Non-Hisp.,None,Forced to ground/Non-compliant escort ,1,Arrest,No,No,,,,,34,CT, Norwich
+301,302,,Domestic Dispute,12:30AM,No,24,F,White,Non-Hisp.,None,Non-compliant escort position,3,Arrest,No,No,,,,,35,CT, Norwich
+302,303,,Domestic Dispute,09:53PM,No,28,M,Black,Non-Hisp.,Alcohol,Taser Deployment,4,Arrest,No,No,,,,,36,CT, Norwich
+303,304,,Subject with warrant,11:15AM,No,30,M,Black,Non-Hisp.,None,Physical Force used to handcuff,3,Arrest,No,No,,,,,37,CT, Norwich
+304,305,,Domestic Dispute,12:30PM,No,36,M,Black,Non-Hisp.,Alcohol,Taser Displayed,4,Arrest,No,No,,,,,38,CT, Norwich
+305,306,,Breach of Peace,11:00AM,No,17,F,White,Non-Hisp.,None,Non-compliant escort position,2,Arrest,No,No,,,,,39,CT, Norwich
+306,307,,Disturbance,11:34PM,No,30,M,Black,Non-Hisp.,Cocaine,Forced to Ground,5,PC,No,No,,,,,40,CT, Norwich
+307,308,,Suspicious Activity,07:07PM,No,33,M,White,Non-Hisp.,None,Firearms Displayed,4,PC,No,No,,,,,41,CT, Norwich
+308,309,,MV stop,11:20PM,No,50,M,Black,Non-Hisp.,None,Firearms Displayed,5,Arrest,No,No,,,,,42,CT, Norwich
+309,310,,Mental Health,01:15AM,No,46,M,Black,Hispanic,None,Firearms Displayed,3,PC,No,No,,,,,43,CT, Norwich
+310,311,,Domestic Dispute,10:00PM,Yes,25,M,White,Non-Hisp.,Alcohol,Firearms Displayed,2,Arrest,No,No,,,,,44,CT, Norwich
+311,312,,Mental Health,09:03PM,No,50,M,White,Non-Hisp.,Alcohol,Firearms Displayed/Taser Deployment,2,PC,No,No,,,,,45,CT, Norwich
+312,313,,Disturbance,03:12PM,No,21,M,White,Hispanic,None,Forced to Ground/Taser Deployment,2,Arrest,No,Yes-broken nose,,,,,46,CT, Norwich
+313,314,,Disturbance,07:26PM,No,61,M,White,Non-Hisp.,Alcohol,Physical Force used to handcuff,2,Arrest,No,No,,,,,47,CT, Norwich
+314,315,,Disturbance,05:15PM,No,63,M,White,Non-Hisp.,None,Physical Force used to handcuff,2,Arrest,Yes-wrist,No,,,,,48,CT, Norwich
+315,316,,Burglary,10:15PM,No,19,M,Black,Non-Hisp.,Unknown,Firearms displayed/Forced to ground,4,Arrest,No,No,,,,,49,CT, Norwich
+316,317,,Dispute,05:47PM,No,37,M,Black,Non-Hisp.,Alcohol,Non-compliant escort position,1,Arrest,No,No,,,,,50,CT, Norwich
+317,318,,Intoxicated Subject,10:32PM,No,38,F,White,Non-Hisp.,Alcohol,Physical Force used to handcuff,4,Arrest,No,No,,,,,51,CT, Norwich
+318,319,,Domestic Dispute,01:00PM,No,56,F,White,Non-Hisp.,Alcohol,Forced to ground,1,Arrest,No,No,,,,,52,CT, Norwich
+319,320,,Armed Subject,04:23PM,No,27,M,White,Non-Hisp.,None,Physical Force used to handcuff,4,Arrest,No,No,,,,,53,CT, Norwich
+320,321,,Disturbance,02:45AM,No,37,M,White,Non-Hisp.,Alcohol,Forced to ground,2,PC,Yes-complaint of pain in head,Yes-injured left hand middle finger,,,,,54,CT, Norwich
+321,322,,Disturbance,02:32AM,No,42,M,Black,Non-Hisp.,None,Firearms Displayed,5,Arrest,No,No,,,,,55,CT, Norwich
+322,323,,Intoxicated Person,01:45AM,No,21,M,White,Non-Hisp.,Alcohol,Non-compliant escort position,2,PC,No,No,,,,,56,CT, Norwich
+323,324,,Domestic Dispute,03:10AM,No,31,M,White,Hispanic,None,Physical Force used to handcuff,3,Arrest,No,No,,,,,57,CT, Norwich
+324,325,,Disturbance,01:02AM,No,62,M,Black,Non-Hisp.,None,Firearms Displayed,2,Arrest,No,No,,,,,58,CT, Norwich
+325,326,,Robbery/Armed suspect,01:00AM,Yes,35,M,Black,Non-Hisp.,Alcohol,Firearms Displayed,5,Arrest,No,No,,,,,59,CT, Norwich
+326,327,,Domestic Dispute,03:58AM,No,22,M,White,Hispanic,None,Non-compliant escort position/Forced to ground,3,Arrest,Yes-abrasion on right hand,No,,,,,60,CT, Norwich
+327,328,,Mental Health,12:40PM,No,52,M,White,Non-Hisp.,None,Firearms Displayed,2,PC,No,No,,,,,61,CT, Norwich
+328,329,,Domestic Dispute,07:57Am,No,57,M,White,Hispanic,None,Firearms Displayed,3,Arrest,No,No,,,,,62,CT, Norwich
+329,330,,Larceny,05:40PM,No,37,M,White,Non-Hisp.,None,Forced to ground,1,Arrest,"Yes-laceration above right eye, finger",No,,,,,63,CT, Norwich
+330,331,,Disturbance,06:53AM,Yes,59,M,White,Non-Hisp.,None,Forced to ground/Non-compliant escort ,4,Arrest,No,No,,,,,64,CT, Norwich
+331,332,,Subject with warrant,07:00PM,No,32,M,White,Non-Hisp.,None,Firearms Displayed/K9 displayed,8,Arrest,No,No,,,,,65,CT, Norwich
+332,333,,Domestic Dispute,08:52PM,No,39,M,White,Non-Hisp.,Alcohol,Taser Displayed,3,Arrest,No,No,,,,,66,CT, Norwich
+333,334,,Domestic Dispute,07:54PM,No,39,M,Black,Non-Hisp.,None,Taser Displayed,1,Arrest,No,No,,,,,67,CT, Norwich
+334,335,,MV crash/evading,09:21PM,No,20,F,White,Hispanic,None,Forced to ground,2,Arrest,Yes-Laceration to forehead,Yes-laceration to knee,,,,,68,CT, Norwich
+335,336,,Disturbance,02:19AM,No,23,F,White,Non-Hisp.,Alcohol,Forced to ground,1,Arrest,No,No,,,,,69,CT, Norwich
+336,337,,Disturbance,10:20PM,No,27,F,White,Hispanic,Alcohol,Forced to ground,1,Arrest,Yes-laceration to left arm and left leg,Yes-pain in right shoulder,,,,,70,CT, Norwich
+337,338,,Subject with warrant,07:11PM,No,44,M,Black,Non-Hisp.,None,Firearms displayed,8,Arrest,No,No,,,,,71,CT, Norwich
+338,339,,Domestic Dispute,03:00PM,No,17,F,White,Non-Hisp.,None,Forced to ground/elbow-knee strike,7,Arrest,No,No,,,,,72,CT, Norwich
+339,340,,Domestic Dispute,03:00PM,No,17,M,Black,Non-Hisp.,None,Firearm displayed,7,Arrest,No,No,,,,,73,CT, Norwich
+340,341,,Disturbance,11:45PM,No,26,M,Black,Non-Hisp.,None,Forced to ground,2,Arrest,No,Yes-pulled muscle (left calf),,,,,74,CT, Norwich
+341,342,,Mental Health,06:50PM,No,19,M,White,Non-Hisp.,None,Firearms displayed,4,PC,No,No,,,,,75,CT, Norwich
+342,343,,MV stop,10:45PM,Yes,32,M,Black,Non-Hisp.,Alcohol,Firearms Displayed,2,Arrest,No,No,,,,,76,CT, Norwich
+343,344,,Fight in Progress,01:25PM,Yes,23,M,Black,Non-Hisp.,None,Firearms Displayed,2,Arrest,No,No,,,,,77,CT, Norwich
+344,345,,MV stop,12:46AM,No,53,M,Black,Non-Hisp.,Alcohol,Firearms Displayed,2,Arrest,No,No,,,,,78,CT, Norwich
+345,346,,Car Accident,11:30PM,No,21,M,White,Non-Hisp.,Alc/Drugs,Forced to ground,3,Arrest,No,No,,,,,79,CT, Norwich
+346,347,,Disturbance,04:10PM,No,16,M,Black,Non-Hisp.,None,Physical Force used to handcuff,1,Arrest,No,No,,,,,80,CT, Norwich
+347,348,,MV stop,05:45PM,No,42,M,White,Non-Hisp.,Alcohol,Non-compliant escort position,1,Arrest,No,No,,,,,81,CT, Norwich
+348,349,,Domestic Dispute,07:16AM,No,36,M,Black,Non-Hisp.,Alcohol,Closed hand strike,4,Arrest,No,No,,,,,82,CT, Norwich
+349,350,,Subject with warrant,08:00PM,No,23,M,White,Hispanic,None,"Open/Closed hand strike, OC spray, Taser disp",1,Arrest,No,Yes-right hand and right cheek,,,,,83,CT, Norwich
+350,351,,Mental Health,01:00AM,No,24,M,White,Non-Hisp.,None,Forced to ground/Non-compliant escort ,4,PC,No,No,,,,,84,CT, Norwich
+351,352,,Interfering with Officer,04:35PM,No,16,M,White,Hispanic,None,Forced to ground/Firearm displayed,1,Arrest,No,No,,,,,85,CT, Norwich
+352,353,,,,,,,,,,,,,,,,,,,86,CT, Norwich
+353,354,,,,,,,,,,,,,,,,,,,87,CT, Norwich
+354,355,,,,,,,,,,,,,,,,,,,88,CT, Norwich
+355,356,,,,,,,,,,,,,,,,,,,89,CT, Norwich
+356,357,,,,,,,,,,,,,,,,,,,90,CT, Norwich
+357,358,,,,,,,,,,,,,,,,,,,91,CT, Norwich
+358,359,,,,,,,,,,,,,,,,,,,92,CT, Norwich
+359,360,,,,,,,,,,,,,,,,,,,93,CT, Norwich
+360,361,,,,,,,,,,,,,,,,,,,94,CT, Norwich
+361,362,,,,,,,,,,,,,,,,,,,95,CT, Norwich
+362,363,,,,,,,,,,,,,,,,,,,96,CT, Norwich
+363,364,,,,,,,,,,,,,,,,,,,97,CT, Norwich
+364,365,,,,,,,,,,,,,,,,,,,98,CT, Norwich
+365,366,,,,,,,,,,,,,,,,,,,99,CT, Norwich
+366,367,,,,,,,,,,,,,,,,,,,100,CT, Norwich
+367,368,,,,,,,,,,,,,,,,,,,101,CT, Norwich
+368,369,,,,,,,,,,,,,,,,,,,102,CT, Norwich
+369,370,,,,,,,,,,,,,,,,,,,103,CT, Norwich
+370,371,,,,,,,,,,,,,,,,,,,104,CT, Norwich
+371,372,,,,,,,,,,,,,,,,,,,105,CT, Norwich
+372,373,,,,,,,,,,,,,,,,,,,106,CT, Norwich
+373,374,,,,,,,,,,,,,,,,,,,107,CT, Norwich
+374,375,,,,,,,,,,,,,,,,,,,108,CT, Norwich
+375,376,,,,,,,,,,,,,,,,,,,109,CT, Norwich
+376,377,,,,,,,,,,,,,,,,,,,110,CT, Norwich
+377,378,,,,,,,,,,,,,,,,,,,111,CT, Norwich
+378,379,,,,,,,,,,,,,,,,,,,112,CT, Norwich
+379,380,,,,,,,,,,,,,,,,,,,113,CT, Norwich
+380,381,,,,,,,,,,,,,,,,,,,114,CT, Norwich
+381,382,,,,,,,,,,,,,,,,,,,115,CT, Norwich
+382,383,,,,,,,,,,,,,,,,,,,116,CT, Norwich
+383,384,,,,,,,,,,,,,,,,,,,117,CT, Norwich
+384,385,,,,,,,,,,,,,,,,,,,118,CT, Norwich
+385,386,,,,,,,,,,,,,,,,,,,119,CT, Norwich
