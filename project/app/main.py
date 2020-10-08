@@ -59,6 +59,13 @@ nlp = spacy.load('en_core_web_sm')
 
 load_dotenv()
 
+# globalize these variables because I need to
+
+PRAW_CLIENT_ID = os.getenv('PRAW_CLIENT_ID')
+PRAW_CLIENT_SECRET = os.getenv('PRAW_CLIENT_SECRET')
+PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
+
+
 app = FastAPI(
     title='Human Rights First Data Science API',
     description='Returns posts from Reddit\'s r/news subreddit on police brutality',
@@ -79,14 +86,10 @@ def run_update() -> None:
     '''
     print('Updating backlog at %s' % datetime.now())
 
-    PRAW_CLIENT_ID = 'D1NQHCUDKQg3TA'
-    PRAW_CLIENT_SECRET = 'GJn8WpYkFXi5CREeEdwKCiRZz4w'
-    PRAW_USER_AGENT = "windows:reddit:v1(david_cruz_0202)"
-
     reddit = praw.Reddit(
-        client_id=PRAW_CLIENT_ID,
-        client_secret=PRAW_CLIENT_SECRET,
-        user_agent=PRAW_USER_AGENT
+        client_id= PRAW_CLIENT_ID,
+        client_secret= PRAW_CLIENT_SECRET,
+        user_agent= PRAW_USER_AGENT
     )
     # Grab data from reddit
     data = []
