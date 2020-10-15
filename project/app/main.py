@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from fastapi_utils.tasks import repeat_every
 
-from app.api import predict, viz, getdata, update
+from app.api import predict, viz, getdata, update, healthCheck
 
 from pydantic import BaseModel, Field, validator
 import pandas as pd
@@ -77,6 +77,7 @@ app.include_router(predict.router)
 app.include_router(viz.router)
 app.include_router(getdata.router)
 app.include_router(update.router)
+app.include_router(healthCheck.router)
 
 @app.on_event('startup')
 @repeat_every(seconds=60*60*24)  # 24 hours
