@@ -1,0 +1,82 @@
+Data purpose:,Guide for all Response to Resistance data including subject data guide
+"This Response to Resistance dataset provides the raw data needed to identify trends in the use of force in responding to resisting subjects. It is used to help identify potential improvements in department policy, tactics, and training.",
+Corresponding data:,
+This guide corresponds to the Response to Resistance data posted on the city data portal here:,
+https://data.austintexas.gov/browse?Additional-Information_Department=Austin+Police+&tags=r2r,
+Corresponding report:,
+"This data is used to produce the annual Response to Resistance report, posted on APD's website here:",
+http://www.austintexas.gov/page/response-resistance-reports,
+Field definitions:,
+"Below are the fields contained in the dataset and definitions. Note, starting with 2017 data, there are two Response to Resistance datasets posted on the portal. The R2R Subjects data compiles the main R2R data so there is one row of data per subjects. The R2R Subjects data can be derived from the main R2R data, but we are providing the data as modified for use in the report.",
+R2R data,
+Field Name,Definition
+RIN,Unique identifier: force report number (one per officer per use of force)
+Primary Key,Case number: offense report to which the force report is attached
+Date Occurred,Date of incident
+Time Occurred,Time of incident
+Location,Location of incident
+Area Command,APD Sector where the incident occurred (see lookup table below)
+Nature of Contact,Reason for the contact with the subject
+Reason Desc,Reason that force was used
+R2R Level,Level of force used (explained in report linked above)
+Master Subject ID,"Before colon is the subject's person ID, after colon is the Primary Key"
+Subject Sex,Subject sex
+Subject Race,Subject race (see lookup table below)
+Subject Ethnicity,Subject ethnicity (Hispanic or Not Hispanic)
+Subject Conduct Desc,Subject conduct
+Subject Resistance,"Subject resistance offered, as noted by one officer using force on the subject"
+Weapon Used 1,Weapon used by the officer on the subject (up to five can be identified)
+Weapon Used 2,
+Weapon Used 3,
+Weapon Used 4,
+Weapon Used 5,
+Number Shots,Number of shots fired by the officer
+Subject Effects,Effect of force on the subject
+Effect on Officer,Effect of incident on the officer
+Officer Organization Desc,APD unit to which officer belongs
+Officer Commission Date,Date on which officer was commissioned as peace officer
+Officer Yrs of Service,Officer's number of years of service with APD
+X-Coordinate,Incident location using projection NAD 1983 State Plane Texas Central FIPS 4203 (US Feet)
+Y-Coordinate,
+Council District,Austin city council district where the incident occurred
+CENSUS_TRACT,Census tract where the incident occurred
+ZIP,Zip code where the incident occurred
+COUNTY,County where the incident occurred
+R2R subject data,
+Field Name,Definition
+Master Subject ID,"Before colon is the subject's person ID, after colon is the Primary Key. In this set, Master Subject ID is a unique identifier."
+Date Occurred,Date of incident
+LOCATION,Location of incident
+Subject Sex,Subject sex
+APD Race,Combined Race/Ethnicity of subject
+Subject Resistance,"Subject resistance--a single value based on a hierarchy, of all the values selected by all officers using force on this subject during this incident"
+Subject Effects,"Effect of force on the subject--a single value based on a hierarchy, of all the values selected by all officers using force on this subject during this incident"
+X_COORDINATE,Incident location using projection NAD 1983 State Plane Texas Central FIPS 4203 (US Feet)
+Y_COORDINATE,
+Council District,Austin city council district where the incident occurred
+ZIP,Census tract where the incident occurred
+CENSUS_TRACT,Zip code where the incident occurred
+COUNTY,County where the incident occurred
+Field lookups,
+APD Area Commands,
+88,outside Austin
+AD,Adam
+AP,Airport
+BA,Baker
+CH,Charlie
+DA,David
+ED,Edward
+FR,Frank
+GE,George
+HE,Henry
+ID,Ida
+Race,
+A,ASIAN
+B,BLACK
+I,AMERICAN INDIAN/ALASKAN NATIVE
+M,MIDDLE EASTERN
+P,HAWAIIAN/PACIFIC ISLANDER
+U,UNKNOWN
+W,WHITE
+APD Race (on R2R subject) also includes the following value from combining with Ethnicity:,
+H,HISPANIC OR LATINO

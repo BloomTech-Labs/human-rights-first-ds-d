@@ -1,0 +1,204 @@
+﻿X,Y,OBJECTID,Date,Shift,Blocked_Location_of_Incident,Beat,City_1,Type_of_Resistance,Response,Force_Caused_Injury,Off_Injured,Call_Dispatched_via_911,Call_was_Self_Initiated,Call_in_Response_To
+-86.2699389929116,41.6953387412563,1,2017/02/19 05:00:00+00,Off Duty 3rd,1500 N Portage Ave,20,South Bend,Physical,Physical/Taser,Yes,Yes,No,Yes,Fight
+-86.2535619146607,41.6791113845118,2,2017/01/01 05:00:00+00,3rd,300 N Lafayette Blvd,21,South Bend,Physical,Physical,No,No,Yes,No,Fight
+-86.2740347862188,41.6853665810292,3,2017/01/15 05:00:00+00,2nd,1600 Lincoln Way W,23,South Bend,Physical,Physical,Yes,No,Yes,No,Unwanted Person
+-86.2698285434898,41.687828629342,4,2017/01/23 05:00:00+00,1st,1000 N Diamond Ave,21,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.225559448842,41.6548111506704,5,2017/02/10 05:00:00+00,2nd,1900 S Tywyckenham Dr,15,South Bend,Physical,Taser,Yes,No,No,Yes,Traffic Stop
+-86.267967856357,41.6809047304587,6,2017/02/09 05:00:00+00,3rd,500 W Cleveland Rd,23,South Bend,Physical,Physical,Yes,No,Yes,No,Armed Disturbance
+-86.2511990712752,41.6465481221085,7,2017/02/06 05:00:00+00,3rd,2700 S Main St,14,South Bend,Physical,Physical,No,No,Yes,No,Armed Disturbance
+-86.2934089007937,41.6954396549764,8,2017/03/05 05:00:00+00,2nd,1600 N Bendix Dr,24,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.268483869481,41.6838564139429,9,2017/03/13 04:00:00+00,3rd,700 N Cleveland Ave,21,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.280104345447,41.6957465500275,10,2017/03/17 04:00:00+00,3rd,1600 N O'Brien St,20,South Bend,Physical,Physical,No,No,Yes,No,Domestic 
+-86.2776323104806,41.6892608351305,11,2017/03/27 04:00:00+00,2nd,1100 N Brookfield St,19,South Bend,Armed/Edged Weapon,Taser,No,No,Yes,No,Armed Suspect
+-86.2878924806287,41.7178134801133,12,2017/03/01 05:00:00+00,1st,2700 N Rock Maple Ct,22,South Bend,Armed/Edged Weapon,Taser,No,No,Yes,No,Armed Disturbance
+-86.2198921695819,41.6493353869939,29,2017/05/10 04:00:00+00,2nd,2500 S Sampson St,15,South Bend,Physical,Physical,No,No,No,Yes ,Warrant
+-86.2052623989046,41.6609590598939,30,2017/05/14 04:00:00+00,1st,1300 S 30th St,12,South Bend,Physical,Physical,No,No,No,Yes,Vehicle Theft
+-86.262121444077,41.6789171354092,31,2017/05/17 04:00:00+00,1st,900 W LaSalle Ave,23,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.2589528356986,41.6287993010747,32,2017/05/19 04:00:00+00,2nd,700 W Ireland Rd,16,South Bend,Physical,Taser,No,No,Yes,No,Theft
+-86.261288687883,41.6721339127022,33,2017/06/07 04:00:00+00,2nd,400 S Chapin St,27,South Bend,Physical,Taser,No,No,No,Yes,Vehicle Theft
+-86.1977833714265,41.6656823380789,34,2017/06/17 04:00:00+00,3rd,3600 E Mishawaka Ave,12,South Bend,Physical,Physical,No,Yes,Yes,No,Domestic
+-86.2164113862946,41.6963133911092,35,2017/06/18 04:00:00+00,Off Duty 3rd,1500 N Ironwood Dr,11,South Bend,Physical,Taser,No,No,No,Yes,Fight
+-86.2612569640143,41.681578334566,36,2017/06/20 04:00:00+00,3rd,800 Lincolnway W,23,South Bend,Physical,Physical,No,No,No,Yes,Pursuit
+-86.2442957625511,41.6792149469735,37,2017/06/22 04:00:00+00,3rd,300 N Niles Ave,27,South Bend,Physical,Taser,No,No,Yes,No,Robbery
+-86.2261582897928,41.6590817354322,38,2017/06/26 04:00:00+00,3rd,1600 S Hilde Ct,13,South Bend,Physical,OC Spray,No,No,Yes,No,Warrant
+-86.2837186093298,41.687367340346,39,2017/07/02 04:00:00+00,3rd,2400 W Bonds Ave,24,South Bend,Physical,OC Spray,No,No,Yes,No,Unwanted Person
+-86.2409436594404,41.6580900585972,40,2017/07/05 04:00:00+00,1st,700 E Indiana Ave,14,South Bend,Physical,OC Spray,Yes,Yes,Yes,No,Domestic
+-86.2571901677046,41.6721991699155,41,2017/07/05 04:00:00+00,3rd,600 W Western Ave,27,South Bend,Physical,Taser,Yes,No,Yes,No,Disturbance
+-86.2092700011746,41.6340726492147,42,2017/07/11 04:00:00+00,3rd,4200 Irish Hills Dr,15,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2496674952308,41.6515603657457,43,2017/07/26 04:00:00+00,3rd,2200 S Michigan St,14,South Bend,Physical,Taser,No,No,Yes,No,Unwanted Person
+-86.2426317024502,41.6580461891953,44,2017/07/27 04:00:00+00,3rd,600 E Indiana Ave,14,South Bend,Physical,Physical,No,No,Yes,No,Unwanted Person
+-86.2354594569635,41.6912602590239,46,2017/07/23 04:00:00+00,Off Duty 3rd,1200 N Eddy St,10,South Bend,OC/Physical,OC Spray,No,Yes,No,Yes,Fight
+-86.2900568364517,41.6701293867575,47,2017/08/10 04:00:00+00,2nd,2900 W Huron St,26,South Bend,Physical,Taser,No,No,No,Yes,Fleeing
+-86.2741934096859,41.6721126284764,48,2017/08/13 04:00:00+00,3rd,400 S Kosciuszko Ave,26,South Bend,Physical,Physical,No,Yes,No,Yes,Fight
+-86.2743338343601,41.6721003855303,49,2017/08/13 04:00:00+00,3rd,1600 W Western Ave,26,South Bend,Physical,Physical,Yes,Yes,No,Yes,Fight
+-86.2835231391055,41.6674207008804,50,2017/08/14 04:00:00+00,3rd,2400 W Poland St,26,South Bend,Physical,Physical,Yes,No,Yes,No,Domestic
+-86.2348044189739,41.6424297303669,51,2017/08/24 04:00:00+00,1st,3100 Miami St,15,South Bend,Physical,Taser,No,No,Yes,No,Disturbance
+-86.239109788012,41.6274146157452,52,2017/08/25 04:00:00+00,1st,900 W Erskine Plaza,16,South Bend,Physical,Taser,Yes,No,Yes,No,Robbery
+-86.2478537039228,41.6557248886693,53,2017/09/07 04:00:00+00,2nd,1800 S St. Joseph St,14,South Bend,Armed/Handgun,Physical,No,No,No,Yes,Traffic Stop
+-86.2349262748504,41.6970285233487,54,2017/09/09 04:00:00+00,2nd,Moose Krause Circle,,Notre Dame,Physical,Physical,No,No,No,Yes,Fight
+-86.2270151633188,41.64737590015,55,2017/09/11 04:00:00+00,2nd,2700 S York Rd,15,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2498789913496,41.6397318289044,56,2017/09/19 04:00:00+00,3rd,3400 S Michigan St,15,South Bend,Physical,Physical,No,No,Yes,No,Unwanted Person
+-86.3220295052158,41.6658147795879,57,2017/09/20 04:00:00+00,2nd,56900 W Mayflower Rd,28,South Bend,Physical,Taser,No,No,Yes,No,Unwanted Person
+-86.2597017411089,41.6815590282332,58,2017/09/23 04:00:00+00,2nd,500 N Scott St,21,South Bend,Armed/Edged Weapon,Physical,No ,No,Yes,No,Unwanted Person
+-86.276401451358,41.6892902300053,59,2017/10/02 04:00:00+00,2nd,1100 N College St,19,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2392165233929,41.627610960729,63,2017/11/09 05:00:00+00,2nd,900 W Erskine Plaza,16,South Bend,Physical,Physical,No,No,No,Yes,Theft
+-86.2974185807782,41.6774578161585,64,2017/10/13 04:00:00+00,2nd,200 N Falcon St,28,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2613841045721,41.6732964304006,65,2017/10/19 04:00:00+00,3rd,300 S Chapin St,27,South Bend,Physical,Taser,Yes,No,No,Yes,Domestic
+-86.2739313794153,41.6821158094352,66,2017/10/27 04:00:00+00,2nd,1600 W Fassnacht St,23,South Bend,Physical,Taser,No,No,No,Yes,Warrant
+-86.2477250651255,41.6453417025173,67,2017/11/02 04:00:00+00,3rd,200 E Oakside St,14,South Bend,Physical,Physical,Yes,No,Yes,No,Shots Fired
+-86.2764838475646,41.6684732093857,68,2017/11/06 05:00:00+00,3rd,700 S Jackson St,26,South Bend,Physical,Physical,No,No,No,Yes,Warrant
+-86.2998110063431,41.6756681427539,69,2017/11/14 05:00:00+00,3rd,100 N Wellington St,28,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2103321843444,41.6674008377148,70,2017/11/14 05:00:00+00,3rd,800 26th St,12,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2352644554344,41.6843067545685,71,2017/11/20 05:00:00+00,2nd,1100 E Bissell St,10,South Bend,Armed/Handgun,Physical,No,No,Yes,No,Shots Fired
+-86.2687200171195,41.6650068642079,72,2017/11/30 05:00:00+00,3rd,1300 W Sample St,25,South Bend,Physical,Physical,No,No,Yes,No,Hit and Run
+-86.2352333874258,41.680546812821,73,2017/12/10 05:00:00+00,3rd,1100 E Madison St,9,South Bend,Physical,Physical,Yes,No,No,Yes,Vehicle Theft
+-86.252087128315,41.679016024036,74,2017/12/10 05:00:00+00,3rd,200 E Lasalle Ave,27,South Bend,Physical,Physical,Yes,No,Yes,No,Burglar Alarm
+-86.3045336393773,41.6657645254591,75,2017/12/27 05:00:00+00,2nd,800 S Albert Ave,28,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.272529463013,41.6571735705203,76,2017/12/27 05:00:00+00,3rd,1600 S Magnolia St,25,South Bend,Physical,Physical,Yes,No,Yes,No,Disturbance
+-86.2704156966451,41.6794921991458,77,2017/12/27 05:00:00+00,3rd,1300 N Linden Ave,23,South Bend,Physical,Physical,Yes,Yes,Yes,No,Vehicle Theft
+-86.2811482476239,41.6824594686643,478,2018/01/05 05:00:00+00,2nd,2200 W Roger St,23,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2376445069583,41.6777525821915,479,2018/01/10 05:00:00+00,2nd,900 W Colfax Ave,9,South Bend,Physical,Physical,No,No,No,Yes,Warrant
+-86.2776057623606,41.6875496435057,480,2018/01/15 05:00:00+00,3rd,1000 N Brookfield St,19,South Bend,Physical,Physical,Yes,No,Yes,No,Domestic
+-86.2589018152661,41.6713392184191,481,2018/01/23 05:00:00+00,3rd,500 S Alonzo Watson Dr,27,South Bend,Physical,Physical,Yes,No,Yes,No,Disturbance
+-86.2675553873177,41.6925700384068,482,2018/02/12 05:00:00+00,1st,1300 N Portage Ave,21,South Bend,Armed,Taser,No,Yes,Yes,No,Theft
+-86.307997721349,41.6700366375541,483,2018/02/14 05:00:00+00,2nd,4400 Huron Circle,28,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2597170864486,41.6998796783108,484,2018/03/01 05:00:00+00,1st,700 W Beale St,20,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2826573985955,41.6780335910154,485,2018/03/08 05:00:00+00,2nd,2300 W Orange St,23,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2947786103894,41.6740511936994,486,2018/03/18 04:00:00+00,3rd,200 S Iowa St,26,South Bend,Physical,Taser,Yes,No,No,Yes,Traffic Stop
+-86.2673612113677,41.6859148854369,487,2018/03/19 04:00:00+00,1st,1200 W Van Buren St,21,South Bend,Physical,Taser,Yes,No,No,Yes,Foot Pursuit
+-86.1978316366479,41.6946718876129,488,2018/03/21 04:00:00+00,2nd,3600 Edison Rd,11,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2624422166194,41.6838651621896,489,2018/03/27 04:00:00+00,3rd,900 W Lindsey Ave,21,South Bend,Physical,Taser,No,No,No,Yes,Traffic Stop
+-86.2853724859538,41.7142374643776,490,2018/03/31 04:00:00+00,3rd,2800 N Corpus Christi Dr,22,South Bend,Physical,Taser,No,No,Yes,No,Assist 
+-86.2432458633849,41.6683261609697,492,2018/04/07 04:00:00+00,3rd,600 E Bronson St.,13,South Bend,Armed,Taser,No,No,Yes,No,Armed Disturbance
+-86.2702587406647,41.6779652601214,493,2018/04/06 04:00:00+00,3rd,200 N Walnut St.,23,South Bend,Armed,Physical,No,No,No,Yes,Traffic Stop
+-86.2658061553642,41.6829158903389,494,2018/04/15 04:00:00+00,1st,1100 Lincolnway West,23,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2504178156205,41.6831921244676,495,2018/04/17 04:00:00+00,3rd,600 N Michigan St.,21,South Bend,Physical,Physical,Yes,No,Yes,No,Battery
+-86.2364453528312,41.6675713111303,496,2018/04/17 04:00:00+00,2nd,1100 E Northside Blvd.,9,South Bend,Physical,Physical,No,Yes,Yes,No,Unwanted Person
+-86.2251763502874,41.6934073962872,497,2018/04/22 04:00:00+00,3rd,1600 E South Bend Ave.,11,South Bend,Physical,Physical,No,No,No,Yes,Unwanted Person
+-86.2644508702991,41.6714116479611,498,2018/04/20 04:00:00+00,2nd,1000 W Laurel Ct.,23,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2349630850229,41.6585320091938,499,2018/05/02 04:00:00+00,3rd,1100 E Indiana Ave.,13,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2823206782072,41.6798941428063,500,2018/05/02 04:00:00+00,2nd,2300 W Smith St.,23,South Bend,Physical,Physical,Yes,Yes,Yes,No,Suspicious Person
+-86.2255210258159,41.6675683113346,501,2018/05/10 04:00:00+00,2nd,800 S Twyckenham Dr.,9,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2348600732446,41.6628030958632,502,2018/05/16 04:00:00+00,3rd,1100 Lincolnway East,13,South Bend,Physical,Taser,Yes,No,Yes,No,Domestic
+-86.3119041577636,41.6741044662256,503,2018/05/20 04:00:00+00,1st,4600 W Washington St.,28,South Bend,Physical,Taser,No,No,Yes,No,Unwanted Person
+-86.2611698525393,41.6981274602997,504,2018/06/01 04:00:00+00,1st,800 Riverside Ct.,20,South Bend,Physical,Taser,No,No,Yes,No,Disturbance
+-86.2053790117318,41.6956626737131,505,2018/06/01 04:00:00+00,2nd,1500 N Hass Dr.,11,South Bend,Physical,Physical,No,Yes,Yes,No,Unwanted Person
+,,506,2018/06/06 04:00:00+00,3rd,N. Olive St.,,South Bend,Physical,OC,Yes,No,No,Yes,Traffic Stop
+,,507,2018/06/08 04:00:00+00,2nd,53400 Douglas Rd,,South Bend,Physical,OC,No,No,Yes,No,Escapee
+-86.2813552443805,41.6975160622177,508,2018/06/08 04:00:00+00,3rd,1700 N Huey St.,20,South Bend,Physical,Physical,Yes,No,No,Yes,Pursuit
+-86.3056504103647,41.6691480817218,509,2018/06/09 04:00:00+00,2nd,600 S Edison Ave.,28,South Bend,Physical,Taser,No,No,Yes,No,Intimidation 
+-86.288107642952,41.7260531515564,510,2018/06/14 04:00:00+00,2nd,3600 N Portage Rd.,22,South Bend,Physical,Taser,No,No,Yes,No,Theft
+-86.2984262774495,41.6740227427258,511,2018/06/15 04:00:00+00,3rd,200 S Kenmore St.,28,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2848158857755,41.6924646612194,512,2018/06/18 04:00:00+00,2nd,1300 N Fremont St.,19,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2348473545994,41.654641702486,513,2018/06/19 04:00:00+00,2nd,1900 Miami St.,15,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.2824064039726,41.6879233523984,514,2018/06/22 04:00:00+00,3rd,1000 N Elmer St.,19,South Bend,Physical,Taser,No,No,No,Yes,Traffic Stop
+-86.2799795452141,41.689282834361,515,2018/06/25 04:00:00+00,2nd,1100 N O'Brien St.,19,South Bend,Physical,Taser,No,No,No,Yes,Traffic Stop
+-86.3002516253195,41.6899081692389,516,2018/06/30 04:00:00+00,3rd,3700 S Curtiss Dr.,24,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2739505959115,41.6829397867061,517,2018/07/08 04:00:00+00,3rd,1600 W Longley Ave.,23,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.288107642952,41.7260531515564,518,2018/07/17 04:00:00+00,3rd,3600 Portage Rd.,22,South Bend,Physical,Physical,Yes,Yes,Yes,No,Theft
+-86.220489269864,41.6520953470469,519,2018/07/22 04:00:00+00,2nd,1800 E Fox St.,15,South Bend,Physical,Physical,Yes,No,Yes,No,Domestic
+-86.2517920253581,41.6682162765681,520,2018/08/01 04:00:00+00,1st,700 S Main St.,13,South Bend,Armed,Taser,Yes,No,No,Yes,Suicide Attempt
+-86.3007975090406,41.6700337799687,521,2018/08/14 04:00:00+00,2nd,500 S Illinois St.,28,South Bend,Physical,Taser,No,No,Yes,No,Armed Disturbance
+-86.2348045949534,41.6287772920699,522,2018/09/28 04:00:00+00,1st,50000 Miami St.,16,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2812559294876,41.6908211467584,523,2018/09/30 04:00:00+00,2nd,1200 N Huey St.,19,South Bend,Physical,Physical,No,No,Yes,No,Fight
+-86.2666619904561,41.6988816936922,524,2018/10/09 04:00:00+00,3rd,1100 W Roosevelt St.,20,South Bend,Physical,Taser,No,No,Yes,No,Home Invasion
+-86.2778922658765,41.7015739704277,525,2018/10/26 04:00:00+00,2nd,1900 N Brookfield St.,20,South Bend,Physical,Taser,Yes,No,Yes,No,Unwanted Person
+-86.258785903488,41.6287898966241,526,2018/11/05 05:00:00+00,1st,700 W Ireland Rd.,16,South Bend,Physical,Taser,Yes,Yes,Yes,No,Theft
+-86.2642025595927,41.6788833312711,527,2018/11/23 05:00:00+00,2nd,1000 W LaSalle Ave.,23,South Bend,Physical,Taser,No,Yes,No,Yes,Traffic Stop
+-86.2251379055444,41.6934211023202,528,2018/12/21 05:00:00+00,3rd,1600 E South Bend Ave.,11,South Bend,Physical,Physical,Yes,No,Yes,No,Fight
+-86.2553600084602,41.6840704907811,529,2018/08/04 04:00:00+00,3rd,400 W Lamonte Terrace.,21,South Bend,Physical,Physical,No,No,Yes,No,Unwanted Person
+-86.2521390142603,41.678986485623,530,2018/08/25 04:00:00+00,3rd,200 W LaSalle Ave.,27,South Bend,Physical,OC,No,No,Yes,No,Domestic
+-86.2195732446799,41.6889719969645,531,2018/09/04 04:00:00+00,2nd,1900 E Dorwood Dr.,11,South Bend,Physical,Taser,No,No,No,Yes,Motor Vehicle Theft
+-86.2634594659169,41.6511491181006,532,2018/09/19 04:00:00+00,3rd,2200 S Kemble Ave.,25,South Bend,Physical,Taser,No,No,No,Yes,Traffic Stop
+-86.2567499338375,41.6541638589311,533,2018/10/08 04:00:00+00,1st,W Calvert St.,25,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2053626383887,41.6728766376866,534,2018/10/13 04:00:00+00,2nd,400 S 30th St.,12,South Bend,Physical,Physical,No,No,Yes,No,Warrant
+-86.2858039048694,41.6755683756456,535,2018/10/27 04:00:00+00,3rd,100 S Meade St.,26,South Bend,Physical,Physical,Yes,No,Yes,No,Domestic
+-86.2364957810196,41.6536347882471,536,2018/08/11 04:00:00+00,3rd,1000 E Bowman St.,14,South Bend,Physical,Physical,Yes,No,Yes,No,Unwanted Person
+-86.2845367164681,41.6710529540811,537,2018/08/16 04:00:00+00,3rd,2500 W Monroe St.,26,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.299386148607,41.7180328195964,538,2018/08/23 04:00:00+00,1st,3600 Gagnon St.,24,South Bend,Physical,Taser,No,No,Yes,No,Burglary
+-86.3025677674099,41.6719079996046,539,2018/11/08 05:00:00+00,1st,W Western Ave.,28,South Bend,Physical,Physical,No,No,Yes,No,Warrant
+-86.2152891909834,41.6688213344511,540,2018/08/27 04:00:00+00,1st,S. Ironwood Drive,12,South Bend,Physical,Physical,No,No,No,Yes,Disturbance
+-86.2520431879046,41.6326044847815,541,2018/12/02 05:00:00+00,3rd,200 S Main St.,15,South Bend,Physical,Taser,No,No,Yes,No,Theft
+-86.2204551446628,41.6511399015768,542,2018/09/10 04:00:00+00,3rd,1800 E Ewing Ave.,15,South Bend,Physical,Taser,No,No,Yes,No,Crash Report
+-86.2351767105436,41.6779519097946,543,2018/09/19 04:00:00+00,3rd,200 N Eddy St.,9,South Bend,Physical,Taser,No,No,Yes,No,Suspicious Person
+-86.2882540955295,41.7261722126569,544,2018/08/13 04:00:00+00,2nd,3600 Portage Rd.,22,South Bend,Physical,Taser,Yes,No,Yes,No,Medical Assist
+-86.3356002181525,41.7368740563001,545,2018/09/21 04:00:00+00,3rd,6400 W Brick Rd.,22,South Bend,Physical,Taser,No,No,Yes,No,Unwanted Person
+-86.2624561607021,41.6763746272627,546,2018/08/29 04:00:00+00,2nd,100 N. LaPorte Ave.,23,South Bend,Physical,Physical,Yes,No,No,Yes,Traffic Stop
+-86.2713568644694,41.6948180592176,547,2018/10/07 04:00:00+00,3rd,1500 N Anderson Ave.,20,South Bend,Firearm,Firearm,No,No,Yes,No,Homicide
+-86.283655047003,41.6892557505703,548,2018/09/19 04:00:00+00,3rd,1100 N Olive St.,19,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2676254104805,41.6504091856464,549,2018/12/13 05:00:00+00,2nd,W Ewing Ave.,25,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2067668724695,41.6983715938799,550,2018/09/30 04:00:00+00,2nd,1700 N Crestwood Blvd.,11,South Bend,Physical,Physical,No,No,Yes,No,Motor Vehicle Theft
+-86.235454138004,41.6912523620045,551,2019/05/14 04:00:00+00,3rd,1200 N Eddy St,10,South Bend,Physical,Physical,No,No,Yes,No,Unwanted
+-86.2459322791918,41.6497647986396,552,2019/05/18 04:00:00+00,3rd,300 E Altgeld St,14,South Bend,Armed,Taser,No,No,Yes,,
+-86.2202313183234,41.6992842786575,553,2019/04/23 04:00:00+00,3rd,1700 N Irish Way,11,South Bend,Physical,Taser,Yes,No,Yes,No,Fight
+-86.234881600212,41.6546166861514,554,2019/04/27 04:00:00+00,1st,1900 Miami St,15,South Bend,Physical,Taser,Yes,No,Yes,No,Robbery
+-86.2837356926575,41.6938724047424,555,2019/05/07 04:00:00+00,3rd,1400 N Olive St,19,South Bend,Physical,Physical,No,No,Yes,Yes,Pursuit
+-86.2838724096022,41.6937368559615,556,2019/02/28 05:00:00+00,3rd,2400 W Elwood Ave,19,South Bend,Physical,OC,No,No,Yes,No,Domestic
+-86.2789475112064,41.6957622272417,557,2019/04/20 04:00:00+00,2nd,1600 N Johnson St,20,South Bend,Physical,Physical,Yes,No,Yes,No,Unwanted
+-86.2499151075362,41.6599704288478,558,2019/05/09 04:00:00+00,2nd,100 E Broadway St,13,South Bend,Physical,Physical,No,Yes,Yes,Yes,Traffic
+-86.274087213961,41.6959959337285,559,2019/05/21 04:00:00+00,2nd,1600 N Wilber St,20,South Bend,Physical,Physical,No,No,Yes,No,Warrant
+-86.2659688199487,41.6910476816487,560,2019/05/03 04:00:00+00,1st,1200 N Portage Ave,21,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2659688199487,41.6910476816487,561,2019/05/04 04:00:00+00,1st,1200 N Portage Ave,21,South Bend,Physical,Taser,No,No,Yes,No,Trespass
+-86.2638063411188,41.6877693231187,562,2019/05/27 04:00:00+00,3rd,1000 W California Ave,21,South Bend,Physical,Taser,No,No,Yes,No,Arson
+-86.2648574675213,41.6871646529356,563,2019/01/19 05:00:00+00,3rd,900 North Sherman Ave,21,South Bend,Physical,Taser,No,No,Yes,Yes,Traffic
+-86.2638063411188,41.6877693231187,564,2019/05/28 04:00:00+00,3rd,1000 W California Ave,21,South Bend,Physical,Taser,No,No,Yes,No,Domestic
+-86.2536014819471,41.6791191931471,565,2019/06/07 04:00:00+00,3rd,300 N Lafayette Blvd,21,South Bend,Armed,Taser,No,No,Yes,No,Warrant
+-86.2718016832876,41.6805892552125,566,2019/01/02 05:00:00+00,2nd,400 Studebaker Street,23,South Bend,Physical,Physical,No,No,Yes,No,Sus Person
+-86.2863329504973,41.7229863840637,567,2019/04/22 04:00:00+00,2nd,3300 N Portage Rd,22,South Bend,Physical,Taser,No,No,Yes,Yes,Shooting
+-86.2768738035182,41.6811403968707,568,2019/05/25 04:00:00+00,3rd,1800 W Sibley St,23,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2986260371396,41.687894668201,569,2019/01/01 05:00:00+00,3rd,3500 Ardmore Trail,24,South Bend,Physical,Physical,No,No,Yes,No,Fight
+-86.3003656539034,41.6883967421996,570,2019/01/17 05:00:00+00,2nd,3700 N Brentwood Dr,24,South Bend,Physical,Physical,No,No,No,No,Civil 
+-86.2740154875025,41.6853390935673,571,2019/03/28 04:00:00+00,3rd,1600 Lincoln Way West,23,South Bend,Physical,OC,No,No,Yes,No,Trespass
+-86.2986260371396,41.687894668201,572,2019/05/06 04:00:00+00,3rd,3500 Ardmore Trail,24,South Bend,Physical,OC,No,No,Yes,No,Trespass
+-86.2730279152095,41.6535537870031,573,2019/01/06 05:00:00+00,2nd,1900 Prairie Ave,25,South Bend,Physical,Physical,Yes,No,Yes,No,Fight
+-86.2375582864533,41.6581308581905,574,2019/01/04 05:00:00+00,3rd,900 Indiana  Ave,25,South Bend,Physical,Physical,No,No,Yes,No,Unwanted
+-86.2698989880572,41.6571870621153,575,2019/03/04 05:00:00+00,3rd,1400 W Indiana Ave,25,South Bend,Physical,Physical,No,No,Yes,No,Domestic
+-86.2823503295904,41.6719828807127,576,2019/02/01 05:00:00+00,2nd,2300 W Western Ave,26,South Bend,Physical,Taser,Yes,No,Yes,Yes,Drugs
+-86.2996668950844,41.6682214204126,577,2019/02/28 05:00:00+00,2nd,3700 W Ford Street,28,South Bend,Physical,Taser,No,No,Yes,Yes,Drugs
+-86.3143760930218,41.6578178620935,578,2019/05/04 04:00:00+00,2nd,4800 Belleville Ct,28,South Bend,Physical,Taser,No,No,Yes,No,Trespass
+-86.2971626375071,41.6700596380995,579,2019/05/15 04:00:00+00,1st,500 S Falcon St,28,South Bend,Physical,Physical,No,No,Yes,No,Unwanted
+-86.2520231384437,41.6804613623708,580,2019/03/16 04:00:00+00,3rd,400 N Main Street,27,South Bend,Physical,Taser,No,No,Yes,No,Fight
+-86.3033799435178,41.6700219435764,581,2019/06/07 04:00:00+00,2nd,4000 W Huron St,28,South Bend,Physical,Taser,Yes,No,Yes,Yes,Traffic
+-86.256001992157,41.6764210773078,586,2019/06/16 04:00:00+00,3rd,100 N William St. ,27,South Bend,Armed,Firearm,Yes,Yes,Yes,No,Sus Person
+-86.2201751623381,41.6979578116243,589,2019/06/26 04:00:00+00,2nd,2000 E South Bend Ave,11,South Bend,Physical,Taser,No,No,Yes,No,Traffic
+-86.2536013668707,41.6791279409419,590,2019/06/27 04:00:00+00,2nd,300 N Lafayette Blvd,21,South Bend,Physical,Physical,No,Yes,No,Yes,Trespass
+-86.2647534684367,41.683943654824,591,2019/06/28 04:00:00+00,3rd,700 N Sherman Ave,21,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2869147392598,41.7208678239114,592,2019/07/01 04:00:00+00,3rd,2600 E Trader Ct,22,South Bend,Physical,Taser,Yes,Yes,Yes,No,Unwanted Person
+-86.1990139340759,41.661191821006,593,2019/07/07 04:00:00+00,1st,3500 E Northside Blvd,12,South Bend,Physical,Physical,No,Yes,Yes,No,Armed Disturbance
+-86.2973421832667,41.6755163086767,594,2019/07/21 04:00:00+00,2nd,3500 W Washington St,28,South Bend,Physical,Taser,No,No,No,Yes,Shots Fired
+-86.2025711569598,41.6640894614284,595,2019/07/24 04:00:00+00,1st,1000 S 32nd St,12,South Bend,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2628446014884,41.6649769612836,596,2019/07/26 04:00:00+00,3rd,1000 W Sample St,25,South Bend,Physical,Physical,No,No,No,Yes,Theft
+-86.2624678585952,41.6762957796075,597,2019/07/31 04:00:00+00,2nd,100 N Laporte Ave,23,South Bend,Physical,Taser,No,Yes,Yes,No,Motor Vehicle Theft
+-86.2518541282417,41.67364412128,598,2019/08/05 04:00:00+00,2nd,300 S Main St,21,South Bend,Physical,Taser,No,No,Yes,No,Armed Disturbance
+-86.2732188104169,41.6535610597349,599,2019/08/12 04:00:00+00,3rd,1900 Prairie Ave,25,South Bend,Physical,Taser,No,No,No,Yes,Hit and Run
+-86.1965213623308,41.6803208851572,600,2019/08/17 04:00:00+00,2nd,400 N Hickory Rd,11,South Bend,Physical,Physical,Yes,Yes,Yes,No,Unwanted Person
+-86.2378069060751,41.6499862791814,601,2019/08/20 04:00:00+00,1st,900 E Altgeld St,14,South Bend,Physical,Taser,No,No,No,Yes,Shots Fired
+-86.3134845706573,41.674082112112,602,2019/08/21 04:00:00+00,1st,4700 W Washington St,28,South Bend,Physical,OC,No,No,Yes,No,Unwanted Person
+-86.2499062614182,41.6555801272342,603,2019/09/03 04:00:00+00,2nd,100 E Dayton St,14,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.2717875057067,41.6819284672873,604,2019/09/14 04:00:00+00,3rd,500 N Studebaker St,23,South Bend,Physical,Physical,No,No,No,Yes,Traffic Stop
+-86.2833578939278,41.6769739095913,1005,2019/10/10 04:00:00+00,3rd,100 N Olive St,23,South Bend,Physical,Taser,Yes,No,Yes,No,Domestic
+-86.2067813201456,41.7018679098893,1006,2019/10/12 04:00:00+00,2nd,1800 E Hepler St,11,-1,Physical,Physical,No,No,Yes,No,Accident
+-86.2092699988121,41.6340726537278,1007,2019/10/15 04:00:00+00,2nd,4200 Irish Hills Dr,15,South Bend,Physical,Taser,No,No,Yes,No,Warrant
+-86.282609658651,41.6937688062771,1008,2019/10/15 04:00:00+00,2nd,2300 W Elwood Ave,19,-1,Physical,Physical,No,No,Yes,No,Unwanted
+-86.2164117519121,41.6963807296502,1009,2019/11/14 05:00:00+00,3rd,1500 N Ironwood Dr,11,-1,Physical,Taser,Yes,No,No,Yes,Unwanted
+-86.2823709162249,41.6853994383336,1010,2019/11/29 05:00:00+00,1st,800 N Elmer St,23,-1,Physical,Taser,Yes,Yes,Yes,No,Unwanted
+-86.2182711122386,41.6548013924547,1011,2019/12/03 05:00:00+00,3rd,1900 E Calvert St,25,-1,Physical,Physical,Yes,No,Yes,No,Shooting
+-86.2824560337975,41.69079701212,1012,2019/12/25 05:00:00+00,2nd,1200 N Elmer St,19,-1,Physical,Taser,Yes,No,Yes,No,Unwanted
+-86.2973051825793,41.6740027589707,1013,2019/12/27 05:00:00+00,2nd,3500 W Jefferson Blvd,28,-1,Physical,Taser,No,No,Yes,No,Vehicle Pursuit
+-86.2517896646367,41.6709083854727,1014,2020/01/08 05:00:00+00,1st,500 S Main St,,,Physical,Taser,No,No,Yes,No,Unwanted
+-86.2636993086459,41.6861187034954,1015,2020/01/23 05:00:00+00,2nd,800 N Harrison  St,,,Physical,Taser,No,No,Yes,No,Warrant
+-86.2757946950923,41.679418054282,1016,2020/02/01 05:00:00+00,3rd,1700 W Linden Ave,,,Physical,Physical,No,No,No,Yes,Vehicle Pursuit
+-86.2675733534927,41.6925157191278,1017,2020/02/17 05:00:00+00,2nd,1000 N Portage Ave,,,Physical,Pepper Spray,Yes,Yes,Yes,No,Suspicius Person
+-86.3220356108601,41.6804382699001,1018,2020/02/23 05:00:00+00,2nd,5300 W Colfax Ave,,,Physical,Taser,Yes,No,Yes,No,Animal
+-86.2751486461551,41.6892730711257,1019,2020/02/24 05:00:00+00,3rd,1100 N Adams St,,,Physical,Physical,Yes,Yes,Yes,No,Unwanted Person
+-86.249804102179,41.6557822679557,1020,2020/02/28 05:00:00+00,2nd,100 E Dayton St,,,Physical,Physical,No,No,Yes,No,Warrant
+-86.2498504689954,41.6567945861128,1021,2020/02/29 05:00:00+00,2nd,1700 S Michigan St,,,Physical,Taser,Yes,Yes,Yes,No,Fight
+-86.2354562469734,41.6927909702977,1022,2020/03/07 05:00:00+00,3rd,1300 N Eddy St,,,Physical,Physical,No,No,Yes,No,Traffic Accident
+-86.2836450483005,41.6907788714912,1023,2020/03/13 04:00:00+00,2nd,1200 N Olive St,,,Physical,Taser,No,No,Yes,No,MVT
+-86.2635314359099,41.655518875744,1024,2020/03/23 04:00:00+00,2nd,1800 S Kemble Ave,,,Physical,Taser,No,No,Yes,No,Mental
+-86.2572518909947,41.6524107990408,1025,2020/03/25 04:00:00+00,3rd,2100 S Taylor St,,,Physical,Pepper Spray,No,No,Yes,No,Invasion of Privacy
+-86.2801684189236,41.6993760161213,1026,2020/03/25 04:00:00+00,3rd,1800 N Obrien St,,,Physical,Physical,No,No,Yes,No,Disturbance
+-86.2836279920349,41.6892436353487,1027,2020/04/02 04:00:00+00,2nd,1100 N Olive St,,,Physical,Physical,No,No,No,Yes,Vehicle Pursuit
+-86.2691364053881,41.6939892751412,1028,2020/04/03 04:00:00+00,2nd,1400 N Portage Ave,,,Physical,Taser,No,Yes,Yes,No,Disturbance
+-86.2502243942975,41.6709715235403,1029,2020/04/21 04:00:00+00,2nd,500 S Michigan St,,,Physical,Physical,No,No,Yes,No,Battery
+-86.2349491771975,41.6672165427634,1030,2020/04/21 04:00:00+00,2nd,600 S Eddy St,,,Physical,Physical,No,Yes,Yes,No,MVT
