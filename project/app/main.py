@@ -67,9 +67,9 @@ PRAW_USER_AGENT = os.getenv('PRAW_USER_AGENT')
 
 
 app = FastAPI(
-    title='Human Rights First Data Science API',
-    description='Returns posts from Reddit\'s r/news subreddit on police brutality',
-    version='0.5',
+    title='HRF DS API Labs 27',
+    description='Returns posts from different sources on police brutality',
+    version='0.69',
     docs_url='/',
 )
 
