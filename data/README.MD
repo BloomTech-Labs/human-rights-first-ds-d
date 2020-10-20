@@ -65,6 +65,7 @@ South Bend PD                  South Bend     IN     https://goo.gl/SieGqM    Po
 University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Use of Force
 ```
 
+
 # Incident Information
 
 - Date and time of the incident
@@ -152,3 +153,4 @@ P- Asian/Pacific Island, Hispanic
 U- Unknown
 W- Caucasian, Non-Hispanic
 ```
+
