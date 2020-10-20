@@ -24,7 +24,7 @@ raw        <- The original, immutable data dump.
 ## Use of Force Datasets
 
 Sourced data from Police Data Initiative: [link](https://www.policedatainitiative.org/datasets/use-of-force/)
-
+```
 |  Name                      | City       | State  | Link                   | Title                     |  Type Processed 
 |----------------------------|------------|--------|------------------------|---------------------------|
 
@@ -63,7 +63,7 @@ Seattle PD                     Seattle        WA     https://goo.gl/URK6rR    Us
 South Bend PD                  South Bend     IN     https://goo.gl/SieGqM    Police Use of Force Incidents
 
 University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Use of Force
-
+```
 
 # Incident Information
 
@@ -139,6 +139,7 @@ University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Us
 }
 ```
 
+```
 Key code for Race:
 ==================
 A- Asian/Pacific Island, Non-Hispanic
@@ -150,3 +151,4 @@ N- Indian/Alaskan Native, Hispanic
 P- Asian/Pacific Island, Hispanic
 U- Unknown
 W- Caucasian, Non-Hispanic
+```
