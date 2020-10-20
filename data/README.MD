@@ -1,11 +1,11 @@
 # Data folder Organization
 
-
+```
 external   <- Data from third party sources.
 interim    <- Intermediate data that has been transformed.
 processed  <- The final, canonical data sets for modeling.
 raw        <- The original, immutable data dump.
-
+```
 
 # Notes:
 
@@ -23,7 +23,7 @@ raw        <- The original, immutable data dump.
 
 ## Use of Force Datasets
 
-### Sourced data from Police Data Initiative: [link](https://www.policedatainitiative.org/datasets/use-of-force/)
+Sourced data from Police Data Initiative: [link](https://www.policedatainitiative.org/datasets/use-of-force/)
 
 |  Name                      | City       | State  | Link                   | Title                     |  Type Processed 
 |----------------------------|------------|--------|------------------------|---------------------------|
@@ -105,7 +105,7 @@ University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Us
 
 # Statistical data: 
 
-- we originaly sought to represent our data like this:
+```
 { "data": 
     [ "date" :
       "Incidents_number":
@@ -119,8 +119,9 @@ University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Us
       "police_officer_Gender":
                          ]
 }
+```
 
--                                     
+```                                   
 { 'ID' : {
     'incident_number'   : int
     'incident_date'     : dt
@@ -136,6 +137,7 @@ University of Delaware PD      Newark         DE     https://goo.gl/B2Rm6C    Us
     'officer_sex'       : str
     'officer_eth'       : str
 }
+```
 
 Key code for Race:
 ==================
