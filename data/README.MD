@@ -8,4 +8,4 @@ police_use_force.csv - A CSV with two columns. Col[name] is the name of a story.
 
 news.csv - A CSV with 1000 scraped news headlines.
 
-redditbrutality_posts.csv - A csv with recent reddit posts and URL's to the linked stories. Missing datetime stamps
+redditbrutality_posts.csv - A csv with recent reddit posts and URL's to the linked stories. Missing datetime stamps, but these can be pulled using PRAW.
